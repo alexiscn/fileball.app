@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.44**
 
+date: 2022-06-04 (build 150)
+
 - ADDED: add delete playback history feature
 - ADDED: add cloud 139 support
 - ADDED: add a switch to control wheather resume playback from background
