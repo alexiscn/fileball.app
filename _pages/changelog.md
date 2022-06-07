@@ -8,6 +8,12 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.45**
+
+- FIXED: fix issue of invalid horizontal sliding setting of player
+- FIXED: fix issue that some Zip files are messed up after decompression
+- FIXED: fix some typo
+
 ## **Version 1.1.44**
 
 date: 2022-06-04 (build 150)
