@@ -14,7 +14,7 @@ locale: en
 
 3. 刷新网页，点击 sort?pr=ucpro 开头的网络请求，选择 Headers Tab
 
-4. 找到 Request Headers 中的cookie，将冒号后面的全部复制到 Filebox 即可
+4. 找到 Request Headers 中的cookie，将冒号后面的全部复制到 Fileball 即可
 
 ![](/assets/quark.png)
 
@@ -31,4 +31,4 @@ locale: en
 
 5. 在选项中找到工具箱->开发者工具->Cookies
 
-6. 拷贝 粘贴到 Filebox 即可
+6. 拷贝 粘贴到 Fileball 即可
