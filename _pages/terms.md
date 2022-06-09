@@ -7,17 +7,17 @@ locale: en
 ---
 
 **Last updated**  
-May 1 2021
+June 7 2022
 
-> This document is intended to explain or clarify the services provided by Filebox, possible subsequent changes to the terms are also subject to this document.
+> This document is intended to explain or clarify the services provided by Fileball, possible subsequent changes to the terms are also subject to this document.
 
 ## Terms of Service
 
-Thanks for using Filebox, your support directly sustains the development. 
+Thanks for using Filebal, your support directly sustains the development. 
 
 **Pricing**
 
-Filebox's core features, such as file management, music player, video player and text editor, are free. We also offer **Filebox Pro** edition, designed to meet the needs of professional users for more customization while maintaining our development efforts.
+Fileball's core features, such as file management, music player, video player and text editor, are free. We also offer **Fileball Pro** edition, designed to meet the needs of professional users for more customization while maintaining our development efforts.
 
 **Service Availability**
 
