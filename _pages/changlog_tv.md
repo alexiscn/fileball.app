@@ -8,6 +8,17 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.6**
+
+- ADDED: SMBv3.0.2 switch added to settings
+- ADDED: IPTV adds the ability to upload local M3U/TXT files
+- ADDED: IPTV player adds MPV player (controlled by player options)
+- IMPROVED: Optimize the user experience of searching channels on IPTV
+- FIXED: fixe issue of not being able to use channel +/- to quickly switch IPTV channels
+- FIXED: fix issue of Emby search result page jumping
+- FIXED: fix issue that that FTP connection can only use port number 22
+- FIXED: fix issue that some IPTV connections cannot be played
+
 ## **Version 1.0.4**
 
 date: 2022-06-01 (build 44) 
