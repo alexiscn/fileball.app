@@ -8,6 +8,15 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.47**
+
+- ADDED: add webp image format support
+- ADDED: add file filter
+- ADDED: add screen cast feature to IPTV
+- ADDED: add context menus to IPTV list
+- FIXED: fix issue that playback state sometimes incorrect with MPV player
+- FIXED: fix issue that that FTP connection can only use port number 22
+
 ## **Version 1.1.45**
 
 date: 2022-06-07 (build 152)
