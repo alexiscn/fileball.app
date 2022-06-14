@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.47**
 
+date: 2022-06-14 (build 153)
+
 - ADDED: add webp image format support
 - ADDED: add file filter
 - ADDED: add screen cast feature to IPTV
