@@ -8,6 +8,12 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.5**
+
+- ADDED: add photo browser
+- ADDED: add thumbnail support to cloud videos (if cloud serivce supported)
+- FIXED: fix issue that playback will be paused when return from playlist control using MPV player
+
 ## **Version 1.0.6**
 
 - ADDED: SMBv3.0.2 switch added to settings
