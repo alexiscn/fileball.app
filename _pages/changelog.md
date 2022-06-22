@@ -10,6 +10,17 @@ locale: en
 
 ## **Version 1.1.47**
 
+Developing
+
+- ADDED: add auto pip feature to lab
+- ADDED: add select subtitle from same folder feature
+- IMPROVED: change filename of screenshot to timestamp
+- IMPROVED: improve user experience of remote file ordering
+- IMPROVED: improve user experience of remote file filtering
+- FIXED: fix stuck issue with some emby movie
+
+## **Version 1.1.46**
+
 date: 2022-06-14 (build 153)
 
 - ADDED: add webp image format support
