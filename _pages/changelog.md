@@ -14,10 +14,14 @@ Developing
 
 - ADDED: add auto pip feature to lab
 - ADDED: add select subtitle from same folder feature
+- ADDED: add screen cast feature to local videos
+- ADDED: add timer to auto save playback history
+- ADDED: auto close player when play to end
 - IMPROVED: change filename of screenshot to timestamp
 - IMPROVED: improve user experience of remote file ordering
 - IMPROVED: improve user experience of remote file filtering
 - FIXED: fix stuck issue with some emby movie
+- FIXED: fix issue with AirPods for audio player
 
 ## **Version 1.1.46**
 
