@@ -22,6 +22,7 @@ Developing
 - IMPROVED: improve user experience of remote file filtering
 - FIXED: fix stuck issue with some emby movie
 - FIXED: fix issue with AirPods for audio player
+- FIXED: fix playback issue with some WebDAV using mpv player
 
 ## **Version 1.1.46**
 
