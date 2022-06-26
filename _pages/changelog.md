@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.1.47**
 
-Developing
+date: 2022-06-26 (build 155)
 
 - ADDED: add auto pip feature to lab
 - ADDED: add select subtitle from same folder feature
