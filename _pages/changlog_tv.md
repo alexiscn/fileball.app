@@ -10,11 +10,19 @@ locale: en
 
 ## **Version 1.0.5**
 
+- ADDED: add search feature to cloud service
 - ADDED: add photo browser
 - ADDED: add thumbnail support to cloud videos (if cloud serivce supported)
+- ADDED: close player when playback ended
 - FIXED: fix issue that playback will be paused when return from playlist control using MPV player
+- FIXED: fix auto refresh issue with IPTV
+- FIXED: fix issue that the playlist shows the whole list when entering the playlist under IPTV group
+- FIXED: fix issue that can not delete local M3U/TXT files
+- FIXED: fix playback issue with some WebDAV using mpv player
 
 ## **Version 1.0.6**
+
+date: 2022-06-10 (build 46) 
 
 - ADDED: SMBv3.0.2 switch added to settings
 - ADDED: IPTV adds the ability to upload local M3U/TXT files
