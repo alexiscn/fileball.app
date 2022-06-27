@@ -8,7 +8,7 @@ locale: en
 
 # Changelog
 
-## **Version 1.0.5**
+## **Version 1.0.7**
 
 - ADDED: add search feature to cloud service
 - ADDED: add photo browser
