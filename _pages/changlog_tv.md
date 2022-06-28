@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.0.7**
 
+date: 2022-06-28 (build 47) 
+
 - ADDED: add search feature to cloud service
 - ADDED: add photo browser
 - ADDED: add thumbnail support to cloud videos (if cloud serivce supported)
