@@ -13,7 +13,7 @@ locale: en
 - ADDED: add feature of loading subtitles from the same directory
 - ADDED: add a switch to close the player automatically at the end of playback
 - ADDED: add sup and txt subtitle format support
-- ADDED: add external keyboard shortcuts for iPad player (long press Command key to see instruction)
+- ADDED: add external keyboard shortcuts for iPad player
 - IMPROVED: iPad select subtitle pop-up window is changed to full screen display
 - IMPROVED: improve fast forward/fast rewind prompt interaction
 - IMPROVED: improve the batch deletion efficiency of some cloud services
