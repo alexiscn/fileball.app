@@ -8,6 +8,19 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.48**
+
+- ADDED: add feature of loading subtitles from the same directory
+- ADDED: add a switch to close the player automatically at the end of playback
+- ADDED: add sup and txt subtitle format support
+- ADDED: add external keyboard shortcuts for iPad player (long press Command key to see instruction)
+- IMPROVED: iPad select subtitle pop-up window is changed to full screen display
+- IMPROVED: improve fast forward/fast rewind prompt interaction
+- IMPROVED: improve the batch deletion efficiency of some cloud services
+- FIXED: fix issue of wrong data display in the favorites list of Emby media library detail page
+- FIXED: fix a memory leak problem in WebDAV image browsing
+- FIXED: fix a crash caused by WebDAV viewing large images
+
 ## **Version 1.1.47**
 
 date: 2022-06-26 (build 155)
