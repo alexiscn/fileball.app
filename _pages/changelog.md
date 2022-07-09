@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.48**
 
+date: 2022-07-09 (build 156)
+
 - ADDED: add feature of loading subtitles from the same directory
 - ADDED: add a switch to close the player automatically at the end of playback
 - ADDED: add sup and txt subtitle format support
