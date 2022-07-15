@@ -8,6 +8,15 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.49**
+
+- ADDED: add mount path support for SMB
+- ADDED: add support to open with external player to some cloud services (WebDAV, PikPak, OneDrive)
+- IMPROVED: improve Synology secondary authentication login experience
+- IMPROVED: improve the bottom control layout of player in vertical screen
+- FIXED: fix issue of removing spaces in the name when parsing IPTV
+- FIXED: fix issue that the SMB service automatically identified may not be connected
+
 ## **Version 1.1.48**
 
 date: 2022-07-09 (build 156)
