@@ -10,6 +10,7 @@ locale: en
 
 ## **Version 1.1.49**
 
+- ADDED: add HDR feature to lab
 - ADDED: add mount path support for SMB
 - ADDED: add support to open with external player to some cloud services (WebDAV, PikPak, OneDrive)
 - IMPROVED: improve Synology secondary authentication login experience

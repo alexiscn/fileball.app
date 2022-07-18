@@ -10,6 +10,7 @@ locale: cn
 
 ## **Version 1.1.49**
 
+- 新增: 实验室新增 HDR 开关
 - 新增: SMB 新增挂载路径支持
 - 新增: 部分云端服务新增长按使用外部播放器播放（WebDAV、PikPak、OneDrive）
 - 优化: 优化群晖二次验证登录体验
