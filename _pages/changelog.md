@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.49**
 
+date: 2022-07-19 (build 158)
+
 - ADDED: add HDR feature to lab
 - ADDED: add mount path support for SMB
 - ADDED: add support to open with external player to some cloud services (WebDAV, PikPak, OneDrive)
