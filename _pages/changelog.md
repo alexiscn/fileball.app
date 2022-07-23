@@ -8,6 +8,17 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.50**
+
+- ADDED: add long press to delete IPTV recent play records 
+- ADDED: add tag section to Emby details page
+- IMPROVED: improve the login process of Cloud 189
+- FIXED: fix issue of incomplete display of some media libraries in Emby
+- FIXED: fix issue that the subtitle suffix name was not recognized properly due to capitalization
+- FIXED: fix issue that the current time jumps when dragging the progress bar of MPV player
+- FIXED: fix issue that occasional black screen in automatic picture in picture
+- FIXED: fix issue that automatic picture in picture cannot be triggered occasionally
+
 ## **Version 1.1.49**
 
 date: 2022-07-19 (build 158)
