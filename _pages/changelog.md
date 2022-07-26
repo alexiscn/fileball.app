@@ -15,6 +15,7 @@ locale: en
 - ADDED: add feature to keep every single folder sort config
 - ADDED: add long press to delete IPTV recent play records 
 - ADDED: add tag section to Emby details page
+- ADDED: add subtitle bold font switch to MPV player
 - IMPROVED: improve the login process of Cloud 189
 - IMPROVED: improve batch moving and deleting for some cloud services
 - FIXED: fix issue of incomplete display of some media libraries in Emby
@@ -22,6 +23,7 @@ locale: en
 - FIXED: fix issue that the current time jumps when dragging the progress bar of MPV player
 - FIXED: fix issue that occasional black screen in automatic picture in picture
 - FIXED: fix issue that automatic picture in picture cannot be triggered occasionally
+- FIXED: fix issue that some external subtitle can not be selected for emby
 
 ## **Version 1.1.49**
 
