@@ -10,9 +10,13 @@ locale: en
 
 ## **Version 1.1.50**
 
+- ADDED: add file sort settings
+- ADDED: add switch to control wheather folders always shown at top
+- ADDED: add feature to keep every single folder sort config
 - ADDED: add long press to delete IPTV recent play records 
 - ADDED: add tag section to Emby details page
 - IMPROVED: improve the login process of Cloud 189
+- IMPROVED: improve batch moving and deleting for some cloud services
 - FIXED: fix issue of incomplete display of some media libraries in Emby
 - FIXED: fix issue that the subtitle suffix name was not recognized properly due to capitalization
 - FIXED: fix issue that the current time jumps when dragging the progress bar of MPV player
