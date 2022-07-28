@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.50**
 
+date: 2022-07-28 (build 160)
+
 - ADDED: add file sort settings
 - ADDED: add switch to control wheather folders always shown at top
 - ADDED: add feature to keep every single folder sort config
