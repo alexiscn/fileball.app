@@ -8,6 +8,17 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.8**
+
+- ADDED: add lab area on settings page
+- ADDED: add SFTP support
+- FIXED: fix issue that the image viewer does not display full screen
+- FIXED: fix issue that the picture browser cannot preview pictures occasionally
+- FIXED: fix issue that the picture browser did not display the selected picture
+- FIXED: fix issue thatvideo player does not remember the selected inner sub
+- FIXED: fix issue that some media library contents of Emby are not fully displayed
+- FIXED: fix issue that IPTV does not pause when entering the background
+
 ## **Version 1.0.7**
 
 date: 2022-06-28 (build 47) 
