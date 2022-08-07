@@ -8,6 +8,21 @@ locale: en
 
 # Changelog
 
+## **Version 1.2.0**
+
+Developing...
+
+- ADDED: add danmaku feature to lab
+- ADDED: add option to reset the display ratio and playback speed by double-clicking with two fingers
+- ADDED: add extras feature at Emby details page
+- ADDED: add movie recommendation page for emby
+- IMPROVED: improve the layout of settings 
+- FIXED: fix issue of wrong display of total duration of pCloud video
+- FIXED: fix issue of wrong display after downloading subtitles of shooter
+- FIXED: fix issue that the default player window is reset after pause
+- FIXED: fix issue that Jellyfin movie media library movie list showing empty
+- FIXED: fix issue that OneDrive music file cover is not displayed in the player
+
 ## **Version 1.1.50**
 
 date: 2022-07-28 (build 160)
