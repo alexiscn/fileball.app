@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.2.0**
 
-Developing...
+date: 2022-08-08 (build 162)
 
 - ADDED: add danmaku feature to lab
 - ADDED: add option to reset the display ratio and playback speed by double-clicking with two fingers
