@@ -13,7 +13,7 @@ app_icon                                  : assets/filebox-logo.png             
 app_name                                  : Fileball - Play with files                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : A modern app designed for iOS and iPadOS. Offers file management, music player, video player and text editor.
-app_description_cn                        : 一款为iOS、iPadOS设计的现代化音乐，提供了文件管理、音乐播放器、视频播放器与文本编辑器
+app_description_cn                        : 一款为iOS、iPadOS设计的现代化应用，提供了文件管理、音乐播放器、视频播放器
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
@@ -50,10 +50,6 @@ features                                  :
   - title                                 : Movie Player
     description                           : More video type supported - MKV, FLV, RMVB and so on
     fontawesome_icon_name                 : film
-
-  - title                                 : Text Editor
-    description                           : Edit text files with code highlight
-    fontawesome_icon_name                 : font
   
   - title                                 : Customizeable
     description                           : Everything you can imagine is customizeable.
@@ -94,10 +90,6 @@ features_cn                                  :
   - title                                 : 视频播放器
     description                           : 播放更多视频格式 - MKV、FLV、RVMB等
     fontawesome_icon_name                 : film
-
-  - title                                 : 文本编辑器
-    description                           : 强大的文本编辑器，提供代码高亮功能
-    fontawesome_icon_name                 : font
   
   - title                                 : 自定义
     description                           : 任何您能想到的都可自定义
