@@ -8,6 +8,17 @@ locale: en
 
 # Changelog
 
+## **Version 1.2.1**
+
+- ADDED: add manually search feature for danmaku
+- ADDED: add danmaku transparency setting
+- ADDED: add language conversion settings for danmaku
+- ADDED: add max display line setting for danmaku
+- ADDED: add danmaku menu in video player
+- FIXED: fix problem of not being able to pause music playback through wired headphones
+- FIXED: fix the crash caused by clicking iPad sidebar
+- FIXED: fix issue that IPTV list may crash
+
 ## **Version 1.2.0**
 
 date: 2022-08-08 (build 162)
