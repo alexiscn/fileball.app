@@ -14,6 +14,7 @@ locale: en
 - ADDED: add danmaku transparency setting
 - ADDED: add language conversion settings for danmaku
 - ADDED: add max display line setting for danmaku
+- ADDED: add speed setting for danmaku
 - ADDED: add danmaku menu in video player
 - FIXED: fix problem of not being able to pause music playback through wired headphones
 - FIXED: fix the crash caused by clicking iPad sidebar
