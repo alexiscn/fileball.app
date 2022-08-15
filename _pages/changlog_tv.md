@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.0.8**
 
+date: 2022-08-01 (build 48) 
+
 - ADDED: add lab area on settings page
 - ADDED: add SFTP support
 - FIXED: fix issue that the image viewer does not display full screen
@@ -68,8 +70,6 @@ date: 2022-06-01 (build 44)
 
 date: 2022-05-12 (build 43) 
 
-- ADDED: add support to 115 cloud
-- ADDED: add support to 189 cloud
 - ADDED: add mpv optimization switch control
 - FIXED: fix issue that playback history not updated when close video player
 - FIXED: fix issue that speed indicator always shown for default video player
