@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.2.1**
 
+date: 2022-08-14 (build 165)
+
 - ADDED: add manually search feature for danmaku
 - ADDED: add danmaku transparency setting
 - ADDED: add language conversion settings for danmaku
