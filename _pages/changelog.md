@@ -8,6 +8,11 @@ locale: en
 
 # Changelog
 
+## **Version 1.2.2**
+
+- FIXED: fix danmaku not paused when player paused
+- FIXED: fix danmaku display area issue
+
 ## **Version 1.2.1**
 
 date: 2022-08-14 (build 165)
@@ -47,7 +52,6 @@ date: 2022-07-28 (build 160)
 - ADDED: add long press to delete IPTV recent play records 
 - ADDED: add tag section to Emby details page
 - ADDED: add subtitle bold font switch to MPV player
-- IMPROVED: improve the login process of Cloud 189
 - IMPROVED: improve batch moving and deleting for some cloud services
 - FIXED: fix issue of incomplete display of some media libraries in Emby
 - FIXED: fix issue that the subtitle suffix name was not recognized properly due to capitalization
@@ -123,7 +127,6 @@ date: 2022-06-07 (build 152)
 date: 2022-06-04 (build 150)
 
 - ADDED: add delete playback history feature
-- ADDED: add cloud 139 support
 - ADDED: add a switch to control wheather resume playback from background
 - FIXED: fix issue that connections not updated in time for iPad
 - FIXED: fix issue that EPG may not updated in time
@@ -164,24 +167,17 @@ date: 2022-05-18 (build 148)
 - IMPROVED: improve user experience connecting to Synology with 2-Step verification
 - IMPROVED: remove blank space in batch rename format mode
 - IMPROVED: improve thumbnail cache for SMB
-- FIXED: fix issue that navigation bar missing for Quark/115 of iPad
 - FIXED: fix issue that parse some M3U always failed
-- FIXED: fix issue that 189 family can not be added
 - FIXED: fix issue that local M3U connection synced with iCloud
-- FIXED: fix issue that video of 115 sometime can not be played
 
 ## **Version 1.1.41**
 
 date: 2022-05-11 (build 142)
 
-- ADDED: add support to Cloud 189
 - ADDED: add image and video preview support to PikPak
 - FIXED: fix some crash when click screencast button
 - FIXED: fix issue that screencast result turns blank
-- FIXED: fix issue that video from 115/PikPak/Quark can not resumed in library
 - FIXED: fix issue that progress bar jumps when touching slider to seek for mpv player
-- FIXED: fix issue that mp4 video file can not played with AVPlayer issue for 115 cloud
-- FIXED: fix issue pip not shown for 115 cloud
 - FIXED: fix issue that start pip always failed for some devices
 
 ## **Version 1.1.40**
@@ -190,14 +186,9 @@ date: 2022-05-08 (build 140)
 
 - ADDED: add screencast switch to lab
 - Added: adds support for subtitle background color feature for MPV player
-- ADDED: add image preview support to 115
-- ADDED: add image and video thumbnail support for Quark
 - IMPROVED: improve IPTV user experience
 - FIXED: fix issue that black border at the bottom of IPTV player
 - FIXED: fix issue that address cannot be modified when editing the connection
-- FIXED: fix issue that can't view pictures with 115
-- FIXED: fix issue that moving files not working with 115
-- FIXED: fix issue that incorrect display of file size in the search result of 115
 - FIXED: fix issue that moving files not working with PikPak
 - FIXED: fix issue that cannot view large images with  OneDrive E5 account
 
@@ -241,7 +232,6 @@ date: 2022-04-24 (build 134)
 date: 2022-04-17 (build 132)
 
 - ADDED: add format based batch rename feature
-- ADDED: add global search to Quark service
 - ADDED: add context menu to favorite cloud folder
 - ADDED: add battery level view to video player
 - IMPROVED: improve user experience of playback rate
@@ -280,22 +270,18 @@ date: 2022-03-30 (build 122)
 
 - ADDED: add option to control iCloud sync for single connection
 - IMPROVED: improve icon of subtitle menu
-- IMPROVED: improve logics of Quark cookie expires issue
 - IMPROVED: improve user experience of quick emby search
 - FIXED: fix issue that mounted local folder can not open after reboot device
 - FIXED: fix issue that status bar always show when playing video using iPad
 - FIXED: fix issue that tabbar touch delay with emby
 - FIXED: fix issue that audio player duration is empty in now playing center
 - FIXED: fix issue that video from OneDrive can not be resumed in library
-- FIXED: fix issue that rename file not working with PikPak and Quark
-- FIXED: fix time format issue with Quark
 
 ## **Version 1.1.32**
 
 date: 2022-03-28 (build 120)
 
 - ADDED: add change pasword feature to Emby
-- ADDED: add Quark support
 - ADDED: add context menu to edit lrc file
 - ADDED: add switch to control prefer load local lyrics
 - ADDED: add media source name to media codec section for emby
@@ -577,7 +563,6 @@ date: 2021-11-14 (build 64)
 date: 2021-11-09 (build 63)
 
 - ADDED: add emby support
-- ADDED: add video quality picker for aliyun drive in laboratory
 - IMPROVED: improve view information of remote files
 - IMPROVED: improve movie playback rate up to 4.0x
 - FIXED: fix issue that incorrect file content after remote file update
@@ -631,7 +616,6 @@ date: 2021-10-17 (build 58)
 - IMPROVED: improve access to select subtitle in video player
 - FIXED: fix issue that access token of OneDrive expires not correctly handled
 - FIXED: fix issue that artwork cloud not automatically updated when metadata is missing
-- FIXED: fix issue that video streamed from AliyunDrive cloud not resumed from playback history
 - FIXED: fix issue that recent history not removed when the source file deleted from remote server
 
 ## **Version 1.1.7**
