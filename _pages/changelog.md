@@ -8,6 +8,11 @@ locale: en
 
 # Changelog
 
+## **Version 1.2.3**
+
+- ADDED: add secondary subtitle support for MPV
+- ADDED: add load danmaku from files feature
+
 ## **Version 1.2.2**
 
 date: 2022-08-15 (build 166)
