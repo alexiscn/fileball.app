@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.2.2**
 
+date: 2022-08-15 (build 166)
+
 - FIXED: fix danmaku not paused when player paused
 - FIXED: fix danmaku display area issue
 
