@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.2.4**
 
+date: 2022-08-19 (build 169)
+
 - ADDED: add log、xml format support to text editor
 - IMPROVED: improve search experience of danmaku
 - IMPROVED: improve display name of audio and subtitle tracks for MPV player
