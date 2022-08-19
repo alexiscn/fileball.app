@@ -10,8 +10,10 @@ locale: en
 
 ## **Version 1.2.4**
 
+- ADDED: add log、xml format support to text editor
 - IMPROVED: improve search experience of danmaku
 - IMPROVED: improve display name of audio and subtitle tracks for MPV player
+- IMPROVED: improve settings layout for Emby
 - FIXED: fix issue that some local danmaku file parsed failed
 - REMOVED: remove support for some cloud service
 
