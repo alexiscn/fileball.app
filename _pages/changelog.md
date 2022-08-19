@@ -8,6 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.2.4**
+
+- IMPROVED: improve search experience of danmaku
+- IMPROVED: improve display name of audio and subtitle tracks for MPV player
+- FIXED: fix issue that some local danmaku file parsed failed
+- REMOVED: remove support for some cloud service
+
 ## **Version 1.2.3**
 
 date: 2022-08-18 (build 168)
