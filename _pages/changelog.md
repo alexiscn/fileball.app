@@ -10,7 +10,6 @@ locale: en
 
 ## **Version 1.2.5**
 
-- ADDED: add customize icon of connection feature in lab
 - ADDED: add separate backward seconds settings for video player
 - ADDED: add customize danmaku server url feature
 - ADDED: add match epg with tvg-name for IPTV
