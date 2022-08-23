@@ -14,6 +14,9 @@ locale: en
 - ADDED: add separate backward seconds settings for video player
 - ADDED: add customize danmaku server url feature
 - ADDED: add match epg with tvg-name for IPTV
+- ADDED: add remote lyrics support for audio player
+- FIXED: fix some lyrics parsed issue
+- FIXED: fix subtitle name for MPV player
 
 ## **Version 1.2.4**
 
