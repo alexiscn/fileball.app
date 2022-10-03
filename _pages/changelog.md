@@ -8,6 +8,24 @@ locale: en
 
 # Changelog
 
+## **Version 1.2.6**
+
+- ADDED: add regex mode to batch renaming
+- ADDED: add switch to control battery level for video player
+- ADDED: add external player support to Synology
+- ADDED: add preview markdown menu when long press file
+- ADDED: add customize icons for connections
+- ADDED: add switch to control if load danmaku automatically
+- IMPROVED: improve user experience of adding files
+- IMPROVED: improve user experience of text editor
+- IMPROVED: enter edit mode when creating new txt file
+- IMPROVED: improve user experience of discover avaiable shares
+- FIXED: fix issue that sometimes can not save IPTV subscription
+- FIXED: fix playlist ordered issue resumed from media library
+- FIXED: fix file size incorrect for some cloud service
+- FIXED: fix video player rotation issue on iOS 16
+- FIXED: fix issue that local files can not dragged to parent folder
+
 ## **Version 1.2.5**
 
 date: 2022-08-24 (build 170)
