@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.2.6**
 
+date: 2022-10-04 (build 172)
+
 - ADDED: add regex mode to batch renaming
 - ADDED: add switch to control battery level for video player
 - ADDED: add external player support to Synology
