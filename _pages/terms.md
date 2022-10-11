@@ -31,11 +31,11 @@ We do not provide contents of cloud services, we do not provide media streaming 
 
 **Refund**
 
-We are sorry to hear that you want to refund, but we do respect your choice. However, developers are not responsible for refunds, you are encouraged to contact Apple Support Team directly, some information could be found [here](https://support.apple.com/en-us/HT204084).
+We are sorry to hear that you want to refund. However, developers are not responsible for refunds, you are encouraged to contact Apple Support Team directly, some information could be found [here](https://support.apple.com/en-us/HT204084).
 
 **Changes to This Terms of Service**
 
-We may update our Terms of Service from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms of Service on this page. These changes are effective immediately after they are posted on this page.
+We may update our Terms of Service from time to time. We will notify you of any changes by posting the new Terms of Service on this page. These changes are effective immediately after they are posted on this page.
 
 **Contact Us**
 
