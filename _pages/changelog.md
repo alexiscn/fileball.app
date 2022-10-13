@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.2.7**
 
+Developing...
+
 - FIXED: fix issue that wrong icon display in connection order page
 - FIXED: fix issue that wrong icon display in connection tag manage page
 - FIXED: fix some UI issue for emby
