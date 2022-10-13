@@ -8,6 +8,15 @@ locale: en
 
 # Changelog
 
+## **Version 1.2.7**
+
+- FIXED: fix issue that wrong icon display in connection order page
+- FIXED: fix issue that wrong icon display in connection tag manage page
+- FIXED: fix some UI issue for emby
+- FIXED: fix issue that hidden and sort media library not working for emby
+- FIXED: fix occasional crash issue when entering item page for emby
+- FIXED: fix crash issue when parsing some gz format epg for IPTV
+
 ## **Version 1.2.6**
 
 date: 2022-10-04 (build 172)
