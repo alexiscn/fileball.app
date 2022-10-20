@@ -18,6 +18,7 @@ Developing...
 - FIXED: fix issue that hidden and sort media library not working for emby
 - FIXED: fix occasional crash issue when entering item page for emby
 - FIXED: fix crash issue when parsing some gz format epg for IPTV
+- FIXED: fix wrong audio when switching audio playback
 
 ## **Version 1.2.6**
 
