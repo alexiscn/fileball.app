@@ -8,9 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.2.8**
+
+- FIXED: fix some cloud services searching issue
+
 ## **Version 1.2.7**
 
-Developing...
+date: 2022-10-24 (build 173)
 
 - FIXED: fix issue that wrong icon display in connection order page
 - FIXED: fix issue that wrong icon display in connection tag manage page

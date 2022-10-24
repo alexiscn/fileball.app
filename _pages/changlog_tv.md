@@ -8,6 +8,11 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.11**
+
+- Redesign home view
+- Add playback history to home view
+
 ## **Version 1.0.8**
 
 date: 2022-08-01 (build 48) 
