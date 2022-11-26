@@ -10,7 +10,11 @@ locale: en
 
 ## **Version 1.2.8**
 
+- ADDED: add confirmation for deleting connection
 - FIXED: fix some cloud services searching issue
+- FIXED: fix issue that battery level not shown in IPTV player
+- FIXED: fix landscape orientation issue for IPTV player
+- FIXED: fix issue that artwork not display when playing local audio
 
 ## **Version 1.2.7**
 
