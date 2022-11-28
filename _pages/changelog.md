@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.2.8**
 
+date: 2022-11-28 (build 174)
+
 - ADDED: add confirmation for deleting connection
 - FIXED: fix some cloud services searching issue
 - FIXED: fix issue that battery level not shown in IPTV player
