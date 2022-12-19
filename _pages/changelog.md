@@ -12,7 +12,7 @@ locale: en
 
 Developing...
 
-- FIXED: fix issue that password 
+- FIXED: fix issue that user may can not use app when enabled app lock 
 - FIXED: fix issue that password with special characters caused image display issue
 - FIXED: fix issue that long tags or links caused app crash when entering emby detail page
 - FIXED: fix issue that video can not be played with custom path for SMB

@@ -1,3 +1,29 @@
 {
-    "blacklist": []
+    "blacklist": [
+        "96acc90fe8dcaec5d1695bbd49ffbea0",
+        "6cab6a828ec55f3e0a598ccf33d05f8f",
+        "1595efd82599c03a14a316de14b3e120",
+        "4666654ffba9ebc9620a5abebb29de49",
+        "d6052e44adb48523d40d32b3b74c865a",
+        "b43df340dd287c3eaf77c4d3699a7a5b",
+        "f10ed958b65f848befd7f1a184b21988",
+        "d57bf3b14273c1dff28f6b5ae4cfd71b",
+        "d44d83de1699e566ef0bce98072bf090",
+        "06dd373cf37d324ad3fb3cdbdfa44c79",
+        "52ac31d3e5f66043206e8665cf9d5c01",
+        "177891c910a54e49187ef14e437573eb",
+        "07b81f59fb01f7c8dda3a9b2bc65057d",
+        "dce431384afe05d6a3e1df6de51ac168",
+        "a798bf87fdc79d4a2e8b98e9f7857f29",
+        "e05f2c8419c39f87f01d7d87e091cab7",
+        "9cf88422e37e7d65e5dcc015b765256f",
+        "cea1b7cbaa35953756529415abc1e765",
+        "dfb9caac38581476a9bf3e58c45ad356",
+        "4399f6ae67fb5c7562f9480a73cbb927",
+        "fecfc5ae80339f1e7f56171d24ebd4d2",
+        "00e5360b9c4bfb3717e3cd71f5a7a6ba",
+        "3535f9051da897c7cfbc7a9d46ea6d87",
+        "2015c8e1f2eca5f97e8ae4f1dd01e97d",
+        "9017414de48a951bcdaa030379cf13b4"
+    ]
 }
