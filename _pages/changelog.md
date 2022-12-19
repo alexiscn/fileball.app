@@ -8,6 +8,16 @@ locale: en
 
 # Changelog
 
+## **Version 1.2.9**
+
+Developing...
+
+- FIXED: fix issue that password 
+- FIXED: fix issue that password with special characters caused image display issue
+- FIXED: fix issue that long tags or links caused app crash when entering emby detail page
+- FIXED: fix issue that video can not be played with custom path for SMB
+- FIXED: fix issue that album artwork not displayed for emby music
+
 ## **Version 1.2.8**
 
 date: 2022-11-28 (build 174)
