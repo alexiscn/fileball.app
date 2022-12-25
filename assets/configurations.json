@@ -1,4 +1,5 @@
 {
+    "backend": "functions",
     "blacklist": {
         "enabled": false,
         "action": "none",
@@ -36,6 +37,7 @@
     "services": {
         "dandanplay": true,
         "alist": false,
-        "testflight": false
+        "testflight": false,
+        "emby": true
     }
 }
