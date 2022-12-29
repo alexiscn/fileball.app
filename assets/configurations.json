@@ -31,13 +31,12 @@
             "9017414de48a951bcdaa030379cf13b4"
         ]
     },
-    "premium": {
-        "verifyLocalReceipt": false
-    },
-    "services": {
-        "dandanplay": true,
-        "alist": false,
-        "testflight": false,
-        "emby": true
-    }
+    "verifyLocalReceipt": false,
+    "dandanplayEnabled": true,
+    "alistEnabled": false,
+    "testflightEnabled": false,
+    "embyEnabled": true,
+    "malformedProtection": false,
+    "libraryMetadataEnabled": true,
+    "libraryMetadataProvider": "tmdb"
 }
