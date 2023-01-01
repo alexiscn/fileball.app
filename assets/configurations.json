@@ -38,5 +38,6 @@
     "embyEnabled": true,
     "malformedProtection": false,
     "libraryMetadataEnabled": true,
-    "libraryMetadataProvider": "tmdb"
+    "libraryMetadataProvider": "tmdb",
+    "verifyReceiptWhenRestorePurchase": true
 }
