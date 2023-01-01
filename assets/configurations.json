@@ -31,6 +31,7 @@
             "9017414de48a951bcdaa030379cf13b4"
         ]
     },
+    "verifyReceipt": true,
     "verifyLocalReceipt": false,
     "dandanplayEnabled": true,
     "alistEnabled": false,
