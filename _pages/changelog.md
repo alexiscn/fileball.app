@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.2.9**
 
-Developing...
+date: 2023-01-02 (build 177)
 
 - FIXED: fix issue that user may can not use app when enabled app lock 
 - FIXED: fix issue that password with special characters caused image display issue
