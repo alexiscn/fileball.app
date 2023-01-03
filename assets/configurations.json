@@ -9,7 +9,7 @@
     "verifyReceipt": true,
     "verifyLocalReceipt": false,
     "dandanplayEnabled": true,
-    "alistEnabled": false,
+    "alistEnabled": true,
     "testflightEnabled": false,
     "embyEnabled": true,
     "malformedProtection": false,
