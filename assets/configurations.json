@@ -5,7 +5,7 @@
         "action": "none",
         "list": []
     },
-    "whitelist": ["69bf65495ca794c16844728f3057767c"],
+    "whitelist": ["69bf65495ca794c16844728f3057767c","a2b43b66a946e2527ed3f7a8cd584af2"],
     "verifyReceipt": true,
     "verifyLocalReceipt": false,
     "dandanplayEnabled": true,
