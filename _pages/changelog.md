@@ -12,6 +12,9 @@ locale: en
 
 Developing...
 
+- FIXED: fix album cover display issue for emby audiobook
+- FIXED: fix issue that playback progress not saved for emby audiobook
+
 ## **Version 1.2.9**
 
 date: 2023-01-02 (build 177)
