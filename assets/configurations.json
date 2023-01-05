@@ -15,5 +15,6 @@
     "malformedProtection": false,
     "libraryMetadataEnabled": true,
     "libraryMetadataProvider": "tmdb",
-    "verifyReceiptWhenRestorePurchase": true
+    "verifyReceiptWhenRestorePurchase": true,
+    "crashIfVerifyReceiptNetworkNotReachable": false
 }
