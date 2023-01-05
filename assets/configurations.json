@@ -34,7 +34,5 @@
     "libraryMetadataEnabled": true,
     "libraryMetadataProvider": "tmdb",
     "verifyReceiptWhenRestorePurchase": true,
-    "crashIfVerifyReceiptNetworkNotReachable": false,
-    "resetProIfVerifyReceiptNetworkNotReachable": false,
-    "doubleCheckIfVerifyReceiptNetworkNotReachable": true
+    "verifyReceiptNetworkNotReachableAction": "reset"    
 }
