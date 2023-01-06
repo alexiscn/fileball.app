@@ -1,8 +1,8 @@
 {
     "backend": "functions",
     "blacklist": {
-        "enabled": false,
-        "action": "none",
+        "enabled": true,
+        "action": "resetPro",
         "list": [
             "96acc90fe8dcaec5d1695bbd49ffbea0",
             "6cab6a828ec55f3e0a598ccf33d05f8f",
