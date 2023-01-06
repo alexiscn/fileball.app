@@ -1,5 +1,5 @@
 {
-    "backend": "workers",
+    "backend": "functions",
     "blacklist": {
         "enabled": true,
         "action": "resetPro",
