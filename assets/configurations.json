@@ -23,7 +23,7 @@
             "00e5360b9c4bfb3717e3cd71f5a7a6ba",
             "2015c8e1f2eca5f97e8ae4f1dd01e97d"]
     },
-    "whitelist": [],
+    "whitelist": ["07b81f59fb01f7c8dda3a9b2bc65057d"],
     "verifyReceipt": true,
     "verifyLocalReceipt": false,
     "dandanplayEnabled": true,
