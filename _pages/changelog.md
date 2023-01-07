@@ -10,10 +10,8 @@ locale: en
 
 ## **Version 1.2.10**
 
-Developing...
-
 - FIXED: fix album cover display issue for emby audiobook
-- FIXED: fix issue that playback progress not saved for emby audiobook
+- FIXED: fix DLNA searching issue for iOS 16
 
 ## **Version 1.2.9**
 
