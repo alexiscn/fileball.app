@@ -8,7 +8,9 @@ locale: en
 
 # Changelog
 
-## **Version 1.2.10**
+## **Version 1.2.11**
+
+date: 2023-01-08 (build 180)
 
 - FIXED: fix album cover display issue for emby audiobook
 - FIXED: fix DLNA searching issue for iOS 16
