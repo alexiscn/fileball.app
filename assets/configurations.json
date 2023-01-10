@@ -30,7 +30,7 @@
     "alistEnabled": true,
     "testflightEnabled": false,
     "embyEnabled": true,
-    "malformedProtection": false,
+    "malformedProtection": true,
     "libraryMetadataEnabled": true,
     "libraryMetadataProvider": "tmdb",
     "verifyReceiptWhenRestorePurchase": true,
