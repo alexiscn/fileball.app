@@ -8,6 +8,10 @@ locale: en
 
 # Changelog
 
+## **Version 1.2.12**
+
+Developing...
+
 ## **Version 1.2.11**
 
 date: 2023-01-08 (build 180)
