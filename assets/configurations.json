@@ -34,5 +34,6 @@
     "libraryMetadataEnabled": true,
     "libraryMetadataProvider": "tmdb",
     "verifyReceiptWhenRestorePurchase": true,
-    "verifyReceiptNetworkNotReachableAction": "reset"    
+    "verifyReceiptNetworkNotReachableAction": "reset",
+    "qrCodeEnabled": true
 }
