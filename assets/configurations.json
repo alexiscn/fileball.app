@@ -23,7 +23,7 @@
             "00e5360b9c4bfb3717e3cd71f5a7a6ba",
             "2015c8e1f2eca5f97e8ae4f1dd01e97d"]
     },
-    "whitelist": ["07b81f59fb01f7c8dda3a9b2bc65057d","a2b43b66a946e2527ed3f7a8cd584af2", "8fb926f3a8a46639fd310cf1b6cba0d0"],
+    "whitelist": ["07b81f59fb01f7c8dda3a9b2bc65057d","a2b43b66a946e2527ed3f7a8cd584af2", "8fb926f3a8a46639fd310cf1b6cba0d0","d6e3a8b48290777861b46ec63ea535b7"],
     "verifyReceipt": true,
     "verifyLocalReceipt": false,
     "dandanplayEnabled": true,
