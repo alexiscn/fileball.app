@@ -8,6 +8,11 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.12**
+
+- FIXED: fix issue that recent playback history can not be resumed
+- FIXED: fix issue that subtitles within same directory can not be loaded
+
 ## **Version 1.0.11**
 
 - Redesign home view
