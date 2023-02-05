@@ -10,10 +10,9 @@ locale: en
 
 ## **Version 1.2.12**
 
-Developing...
-
 - FIXED: fix crash when loading lyrics from SMB
 - FIXED: fix issue that webp not showing thumbnails
+- Other improvements
 
 ## **Version 1.2.11**
 
