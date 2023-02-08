@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.2.12**
 
+date: 2023-02-07 (build 181)
+
 - FIXED: fix crash when loading lyrics from SMB
 - FIXED: fix issue that webp not showing thumbnails
 - Other improvements

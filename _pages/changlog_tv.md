@@ -10,10 +10,14 @@ locale: en
 
 ## **Version 1.0.12**
 
+date: 2023-02-07 (build 60) 
+
 - FIXED: fix issue that recent playback history can not be resumed
 - FIXED: fix issue that subtitles within same directory can not be loaded
 
 ## **Version 1.0.11**
+
+date: 2022-10-06 (build 52) 
 
 - Redesign home view
 - Add playback history to home view
