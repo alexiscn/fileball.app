@@ -8,6 +8,15 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.4**
+
+Developing...
+
+- FIXED: fix issue that remote IPTV can not be added
+- FIXED: fix issue of opening the root directory of the favorited directory
+- FIXED: fix issue that favorited directory not displaying starred icon
+- FIXED: fix issue that deleting favorited directory not updating home page
+
 ## **Version 1.0.12**
 
 date: 2023-02-07 (build 60) 
