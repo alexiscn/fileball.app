@@ -12,6 +12,11 @@ locale: en
 
 Developing...
 
+- ADDED: add jellyfin support
+- ADDED: add SMB support for mpv player
+- ADDED: add DAT video format support
+- ADDED: add auto load danmaku file feature
+- IMPROVED: upgrade mpv version to 0.35.1
 - FIXED: fix issue that remote IPTV can not be added
 - FIXED: fix issue of opening the root directory of the favorited directory
 - FIXED: fix issue that favorited directory not displaying starred icon
