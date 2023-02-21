@@ -10,6 +10,17 @@ locale: en
 
 ## **Version 1.2.12**
 
+Developing...
+
+- ADDED: add SMB support for mpv player
+- ADDED: add DAT video format support
+- ADDED: add auto load danmaku file feature
+- ADDED: add video version preferences settings for emby
+- IMPROVED: upgrade mpv version to 0.35.1
+- FIXED: fix issue that continue watching not updated in time when item mark as played for emby
+
+## **Version 1.2.12**
+
 date: 2023-02-07 (build 181)
 
 - FIXED: fix crash when loading lyrics from SMB
