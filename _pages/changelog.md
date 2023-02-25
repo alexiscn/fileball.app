@@ -16,7 +16,10 @@ Developing...
 - ADDED: add DAT video format support
 - ADDED: add auto load danmaku file feature
 - ADDED: add video version preferences settings for emby
+- ADDED: add search all result for emby
+- IMPROVED: improve user experience of adjust volume and brightness for video player
 - IMPROVED: upgrade mpv version to 0.35.1
+- FIXED: fix network speed display issue for video player
 - FIXED: fix issue that continue watching not updated in time when item mark as played for emby
 
 ## **Version 1.2.12**
