@@ -10,8 +10,6 @@ locale: en
 
 ## **Version 1.2.12**
 
-Developing...
-
 - ADDED: add SMB support for mpv player
 - ADDED: add DAT video format support
 - ADDED: add auto load danmaku file feature
@@ -21,6 +19,8 @@ Developing...
 - IMPROVED: upgrade mpv version to 0.35.1
 - FIXED: fix network speed display issue for video player
 - FIXED: fix issue that continue watching not updated in time when item mark as played for emby
+
+NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
 
 ## **Version 1.2.12**
 
