@@ -8,7 +8,19 @@ locale: en
 
 # Changelog
 
-## **Version 1.2.12**
+## **Version 1.2.14**
+
+Developing...
+
+- ADDED: add tint color setting for emby
+- ADDED: add media library popup when tapping title view for emby
+- FIXED: fix resume playback issue with mpv player
+- FIXED: fix file order issue with file filtering
+- FIXED: fix MPV for SMBv1 switch not working issue
+
+## **Version 1.2.13**
+
+date: 2023-02-28 (build 182)
 
 - ADDED: add SMB support for mpv player
 - ADDED: add DAT video format support
