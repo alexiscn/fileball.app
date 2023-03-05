@@ -12,11 +12,17 @@ locale: en
 
 Developing...
 
+- ADDED: add skip opening and ending settings for video player
 - ADDED: add tint color setting for emby
 - ADDED: add media library popup when tapping title view for emby
+- IMPROVED: improve filename line break display 
+- FIXED: fix issue that some OneDrive can not view the original picture
+- FIXED: fix issue that some video played with vlc player without sound
 - FIXED: fix resume playback issue with mpv player
 - FIXED: fix file order issue with file filtering
 - FIXED: fix MPV for SMBv1 switch not working issue
+
+NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
 
 ## **Version 1.2.13**
 
