@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.2.14**
 
-Developing...
+date: 2023-03-07 (build 183)
 
 - ADDED: add skip opening and ending settings for video player
 - ADDED: add tint color setting for emby

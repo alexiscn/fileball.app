@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.0.4**
 
-Developing...
+date: 2023-03-07 (build 62) 
 
 - ADDED: add jellyfin support
 - ADDED: add SMB support for mpv player

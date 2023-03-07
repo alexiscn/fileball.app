@@ -10,7 +10,7 @@ locale: cn
 
 ## **Version 1.0.14**
 
-开发中...
+发布日期: 2023-03-07 (build 62) 
 
 - 新增: 新增Jellyfin协议支持
 - 新增: MPV新增SMB协议支持
