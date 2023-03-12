@@ -8,6 +8,17 @@ locale: en
 
 # Changelog
 
+## **Version 1.2.15**
+
+Developing...
+
+- ADDED: add cache settings for MPV player
+- IMPROVED: improve performance of emby search
+- FIXED: fix subtitle not loaded when play next video track
+- FIXED: fix crash caused by danmaku color
+
+NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
+
 ## **Version 1.2.14**
 
 date: 2023-03-07 (build 183)
