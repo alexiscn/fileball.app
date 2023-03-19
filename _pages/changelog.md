@@ -12,10 +12,19 @@ locale: en
 
 Developing...
 
+- ADDED: add control center support for video playback
+- ADDED: add preferred language setting for subtitle
+- ADDED: add preferred language setting for audio track
 - ADDED: add cache settings for MPV player
+- ADDED: add gpu-hq settings for MPV player (not recommended)
 - IMPROVED: improve performance of emby search
+- IMPROVED: improve landscape support for video playback 
 - FIXED: fix subtitle not loaded when play next video track
 - FIXED: fix crash caused by danmaku color
+- FIXED: fix issue that large photo can not be viewed for Dropbox
+- FIXED: fix crash caused by tapped skip starting of video player
+- FIXED: fix memory leak issue with mpv player
+
 
 NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
 
