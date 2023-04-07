@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.2.15**
 
-Developing...
+date: 2023-04-07 (build 185)
 
 - ADDED: add control center support for video playback
 - ADDED: add preferred language setting for subtitle
