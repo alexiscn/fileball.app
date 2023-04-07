@@ -8,6 +8,15 @@ locale: en
 
 # Changelog
 
+## **Version 1.2.16**
+
+Developing...
+
+- FIXED: fix issue that some lyrics may not loaded
+- FIXED: fix playback issue in series detail page for emby
+
+NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
+
 ## **Version 1.2.15**
 
 date: 2023-04-07 (build 185)
