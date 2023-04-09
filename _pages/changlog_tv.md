@@ -8,7 +8,17 @@ locale: en
 
 # Changelog
 
-## **Version 1.0.4**
+## **Version 1.0.15**
+
+Developing...
+
+- ADDED: add playback info to control center
+- ADDED: add video preference settings for Emby
+- ADDED: add iCloud sync switch for Emby
+- ADDED: add close subtitle option
+- FIXED: fix SMB playback issue with MPV player
+
+## **Version 1.0.14**
 
 date: 2023-03-07 (build 62) 
 
