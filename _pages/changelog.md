@@ -10,8 +10,9 @@ locale: en
 
 ## **Version 1.2.16**
 
-Developing...
 
+- ADDED: add aliyun drive support
+- ADDED: add deinterlace switch for MPV player
 - FIXED: fix issue that some lyrics may not loaded
 - FIXED: fix playback issue in series detail page for emby
 
