@@ -12,10 +12,12 @@ locale: en
 
 Developing...
 
+- ADDED: add aliyun drive support
 - ADDED: add playback info to control center
 - ADDED: add video preference settings for Emby
 - ADDED: add iCloud sync switch for Emby
 - ADDED: add close subtitle option
+- IMPROVED: improve the player pause after the gesture slide fast positioning user experience
 - FIXED: fix SMB playback issue with MPV player
 
 ## **Version 1.0.14**
