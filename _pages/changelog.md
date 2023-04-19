@@ -10,6 +10,7 @@ locale: en
 
 ## **Version 1.2.16**
 
+date: 2023-04-19 (build 187)
 
 - ADDED: add aliyun drive support
 - ADDED: add deinterlace switch for MPV player
