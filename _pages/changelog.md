@@ -8,6 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.2.17**
+
+Developing...
+
+- ADDED: add global search support to aliyun drive
+- ADDED: add aliyun drive entrance to cloud server
+
 ## **Version 1.2.16**
 
 date: 2023-04-19 (build 187)
