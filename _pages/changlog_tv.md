@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.0.15**
 
-Developing...
+date: 2023-04-20 (build 63) 
 
 - ADDED: add aliyun drive support
 - ADDED: add playback info to control center
