@@ -8,12 +8,20 @@ locale: en
 
 # Changelog
 
-## **Version 1.2.17**
+## **Version 1.2.18**
 
 Developing...
 
+NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
+
+## **Version 1.2.17**
+
+date: 2023-04-22 (build 188)
+
 - ADDED: add global search support to aliyun drive
 - ADDED: add aliyun drive entrance to cloud server
+
+NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
 
 ## **Version 1.2.16**
 
