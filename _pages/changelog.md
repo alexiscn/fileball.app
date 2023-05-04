@@ -12,6 +12,10 @@ locale: en
 
 Developing...
 
+- ADDED: add settings in the file settings whether to delete Aliyun disk files into the recycle bin
+- FIXED: fix crash issue with emby genernal search
+- FIXED: fix issue that thumbnail of images not display for Dropbox
+
 NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
 
 ## **Version 1.2.17**
