@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.2.18**
 
-Developing...
+date: 2023-05-04 (build 189)
 
 - ADDED: add settings in the file settings whether to delete Aliyun disk files into the recycle bin
 - FIXED: fix crash issue with emby genernal search
