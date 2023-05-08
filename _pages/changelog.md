@@ -12,6 +12,12 @@ locale: en
 
 Developing...
 
+- ADDED: add mts video format support
+- IMPROVED: improve UI of emby actor
+- FIXED: fix issue that subtitle color may cause mpv player crash
+- FIXED: fix issue that emby series does not display included in section
+- FIXED: fix issue that emby folder can not be sorted by added date
+
 NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
 
 ## **Version 1.2.18**
