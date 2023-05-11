@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.2.19**
 
-Developing...
+date: 2023-05-09 (build 190)
 
 - ADDED: add mts video format support
 - IMPROVED: improve UI of emby actor
