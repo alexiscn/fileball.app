@@ -8,6 +8,16 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.16**
+
+Developing...
+
+- ADDED: add feature load subtitle from cloud folder
+- ADDED: add audio and subtitle preferred language setting
+- IMPROVED: improve user experience of dragging slider for video player
+- FIXED: fix issue that some subtitle may not automatically loaded
+- FIXED: fix issue that playback control may not shown when video is paused
+
 ## **Version 1.0.15**
 
 date: 2023-04-20 (build 63) 

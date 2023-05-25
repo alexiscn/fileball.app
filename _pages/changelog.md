@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.2.20**
+
+- ADDED: add clear metadata to library recent played items
+- IMPROVED: improve playback logic for emby
+- FIXED: fix issue that some subtitles may appear garbled when loaded by VLC
+
+NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
+
 ## **Version 1.2.19**
 
 date: 2023-05-09 (build 190)
