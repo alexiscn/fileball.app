@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.0.16**
 
-Developing...
+date: 2023-05-30 (build 64) 
 
 - ADDED: add feature load subtitle from cloud folder
 - ADDED: add audio and subtitle preferred language setting

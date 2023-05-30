@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.2.20**
 
+date: 2023-05-30 (build 191)
+
 - ADDED: add clear metadata to library recent played items
 - IMPROVED: improve playback logic for emby
 - FIXED: fix issue that some subtitles may appear garbled when loaded by VLC
