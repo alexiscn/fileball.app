@@ -8,6 +8,17 @@ locale: en
 
 # Changelog
 
+## **Version 1.2.21**
+
+Developing
+
+- ADDED: add play with AVPlayer feature to emby (MP4 format only)
+- ADDED: add quick selection feature to icon gallery
+- FIXED: fix issue that icon gallery will be insert at first after refreshed
+- FIXED: fix issue that video version will be reset after scrolling
+
+NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
+
 ## **Version 1.2.20**
 
 date: 2023-05-30 (build 191)
