@@ -10,12 +10,14 @@ locale: en
 
 ## **Version 1.2.21**
 
-Developing
+Developing...
 
 - ADDED: add play with AVPlayer feature to emby (MP4 format only)
 - ADDED: add quick selection feature to icon gallery
+- ADDED: add secondary subtitle remember to playback history (MPV only)
 - FIXED: fix issue that icon gallery will be insert at first after refreshed
 - FIXED: fix issue that video version will be reset after scrolling
+- FIXED: fix issue that icon in connection tab maybe wrong displayed
 
 NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
 
