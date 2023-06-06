@@ -8,6 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.2.22**
+
+Planning...
+
+- ADDED: add MKS subtitle format support
+- FIXED: fix issue that some kind of subtitle format can not be selected
+
 ## **Version 1.2.21**
 
 Developing...
