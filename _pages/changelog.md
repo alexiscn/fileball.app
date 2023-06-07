@@ -19,7 +19,7 @@ NOTE: In an upcoming release version we will drop support for iOS 14, this will 
 
 ## **Version 1.2.21**
 
-Developing...
+date: 2023-06-07 (build 192)
 
 - ADDED: add play with AVPlayer feature to emby (MP4 format only)
 - ADDED: add quick selection feature to icon gallery
