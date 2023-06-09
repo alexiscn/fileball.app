@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.2.22**
 
-Developing...
+date: 2023-06-08 (build 193)
 
 - ADDED: add MKS subtitle format support
 - FIXED: fix issue that some kind of subtitle format can not be selected
