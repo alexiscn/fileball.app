@@ -10,6 +10,12 @@ locale: en
 
 ## **Version 1.2.22**
 
+- FIXED: fix issue that some subtitles in Simplified Chinese could not be loaded automatically
+- FIXED: fix issue that the RAR file containing password does not pop up the password input box
+- FIXED: fix crash issue that may caused by the network library
+
+## **Version 1.2.22**
+
 date: 2023-06-08 (build 193)
 
 - ADDED: add MKS subtitle format support
