@@ -8,11 +8,13 @@ locale: en
 
 # Changelog
 
-## **Version 1.2.22**
+## **Version 1.2.23**
 
 - FIXED: fix issue that some subtitles in Simplified Chinese could not be loaded automatically
 - FIXED: fix issue that the RAR file containing password does not pop up the password input box
 - FIXED: fix crash issue that may caused by the network library
+
+NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
 
 ## **Version 1.2.22**
 
