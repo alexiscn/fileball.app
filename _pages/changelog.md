@@ -10,6 +10,16 @@ locale: en
 
 ## **Version 1.2.23**
 
+Developing...
+
+- FIXED: fix issue that moving files not working with BaiduPan
+- FIXED: fix issue that some emby video can not be played
+- FIXED: fix crash issue caused by deinterlace for MPV player
+
+NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
+
+## **Version 1.2.23**
+
 date: 2023-06-15 (build 195)
 
 - FIXED: fix issue that some subtitles in Simplified Chinese could not be loaded automatically
