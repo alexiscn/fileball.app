@@ -15,6 +15,10 @@ Developing...
 - FIXED: fix issue that moving files not working with BaiduPan
 - FIXED: fix issue that some emby video can not be played
 - FIXED: fix crash issue caused by deinterlace for MPV player
+- FIXED: fix possible crash issue with emby external link
+- FIXED: fix possible crash issue with network share discovery
+- FIXED: fix possible crash issue caused by changing file settings
+- FIXED: fix possible crash issue with loading emby list
 
 NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
 
