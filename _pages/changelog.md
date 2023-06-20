@@ -8,9 +8,15 @@ locale: en
 
 # Changelog
 
-## **Version 1.2.23**
+## **Version 1.2.25**
 
-Developing...
+Planning...
+
+
+
+## **Version 1.2.24**
+
+date: 2023-06-20 (build 197)
 
 - FIXED: fix issue that moving files not working with BaiduPan
 - FIXED: fix issue that some emby video can not be played
