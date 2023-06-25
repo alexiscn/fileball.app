@@ -36,5 +36,6 @@
     "verifyReceiptWhenRestorePurchase": true,
     "verifyReceiptNetworkNotReachableAction": "reset",
     "qrCodeEnabled": false,
-    "detectDYLB": false
+    "detectDYLB": false,
+    "checkSignature": false
 }
