@@ -8,6 +8,15 @@ locale: en
 
 # Changelog
 
+## **Version 1.2.26**
+
+Planning....
+
+- ADDED: add switch video quality feature to Aliyun drive
+- ADDED: add switch video quality feature to BaiduPan drive
+
+NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
+
 ## **Version 1.2.25**
 
 Developing...
@@ -21,6 +30,8 @@ Developing...
 - FIXED: hide alist connect when uploading file
 - FIXED: fix possible crash issue when loading cloud file thumbnail
 - FIXED: fix possible crash issue with MPV player
+
+NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
 
 ## **Version 1.2.24**
 
