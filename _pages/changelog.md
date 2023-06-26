@@ -10,9 +10,17 @@ locale: en
 
 ## **Version 1.2.25**
 
-Planning...
+Developing...
 
-
+- ADDED: add smooth switch for danmaku
+- FIXED: fix unknown error with some emby playback
+- FIXED: fix issue that danmaku not hide when turn off during playback
+- FIXED: fix issue that adjust font size of danmaku not take effect during playback
+- FIXED: fix issue that available space not correct for files
+- FIXED: fix issue that password prompt not shown when decompressing 7z file with password proected
+- FIXED: hide alist connect when uploading file
+- FIXED: fix possible crash issue when loading cloud file thumbnail
+- FIXED: fix possible crash issue with MPV player
 
 ## **Version 1.2.24**
 
