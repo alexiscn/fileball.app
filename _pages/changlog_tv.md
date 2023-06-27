@@ -8,6 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.17**
+
+Developing...
+
+- ADDED: add subtitle size adjustment feature
+- FIXED: fix issue that favorited SMB folder can not be opened
+
 ## **Version 1.0.16**
 
 date: 2023-05-30 (build 64) 
