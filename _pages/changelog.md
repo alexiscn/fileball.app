@@ -20,7 +20,7 @@ NOTE: In an upcoming release version we will drop support for iOS 14, this will 
 
 ## **Version 1.2.25**
 
-Developing...
+date: 2023-06-27 (build 198)
 
 - ADDED: add smooth switch for danmaku
 - FIXED: fix unknown error with some emby playback
