@@ -10,13 +10,11 @@ locale: en
 
 ## **Version 1.2.26**
 
-Planning....
+Developing....
 
-- ADDED: add switch video quality feature to Aliyun drive
-- ADDED: add switch video quality feature to BaiduPan drive
 - ADDED: add directory file search support to Cloud service that support global search
 - FIXED: fix issue that favorited SMB folder can not be opened
-- FIXED: fix issue that danmaku drop frame issue
+- FIXED: fix issue that danmaku frame drops when using MPV player with HDR support
 
 NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
 
