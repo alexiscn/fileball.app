@@ -35,5 +35,5 @@
     "verifyReceiptNetworkNotReachableAction": "reset",
     "qrCodeEnabled": false,
     "detectDYLB": false,
-    "checkSignature": false
+    "checkSignature": true
 }
