@@ -17,7 +17,7 @@ NOTE: In an upcoming release version we will drop support for iOS 14, this will 
 
 ## **Version 1.2.26**
 
-Developing....
+date: 2023-07-03 (build 199)
 
 - ADDED: add directory file search support to Cloud service that support global search
 - FIXED: fix issue that favorited SMB folder can not be opened
