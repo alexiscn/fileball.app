@@ -10,6 +10,8 @@ locale: cn
 
 ## **Version 1.2.27**
 
+开发中...
+
 - 修正: 修正iPadOS上播放视频可能会闪退的问题
 - 修正: 修正在iPad上连接Jellyfin显示错乱的问题
 

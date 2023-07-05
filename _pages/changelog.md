@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.2.27**
 
+Developing...
+
 - FIXED: fix possible play crash issue for iPadOS
 - FIXED: fix display issue connecting Jellyfin for iPadOS
 
