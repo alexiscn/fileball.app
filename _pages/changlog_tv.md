@@ -12,7 +12,6 @@ locale: en
 
 Developing...
 
-- ADDED: add subtitle size adjustment feature
 - FIXED: fix issue that favorited SMB folder can not be opened
 - FIXED: fix issue that Quick Connect ID can not be used for Synology
 - FIXED: fix possible crash issue caused by network library

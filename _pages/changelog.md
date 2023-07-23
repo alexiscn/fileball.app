@@ -12,8 +12,10 @@ locale: en
 
 Developing...
 
+- ADDED: add subtitle shadow color setting for MPV player
 - FIXED: fix possible play crash issue for iPadOS
 - FIXED: fix display issue connecting Jellyfin for iPadOS
+- FIXED: fix connection issue with Synology quick connect id
 
 NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
 
