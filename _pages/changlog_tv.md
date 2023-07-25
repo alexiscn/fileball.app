@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.0.17**
 
-Developing...
+date: 2023-07-25 (build 65) 
 
 - FIXED: fix issue that favorited SMB folder can not be opened
 - FIXED: fix issue that Quick Connect ID can not be used for Synology

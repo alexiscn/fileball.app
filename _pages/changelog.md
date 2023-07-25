@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.2.27**
 
-Developing...
+date: 2023-07-25 (build 200)
 
 - ADDED: add subtitle shadow color setting for MPV player
 - FIXED: fix possible play crash issue for iPadOS
