@@ -8,6 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.2.28**
+
+Developing...
+
+- ADDED: add resource drive to Aliyun Drive
+- ADDED: add Mode selection to FTP connection
+
 ## **Version 1.2.27**
 
 date: 2023-07-25 (build 200)
