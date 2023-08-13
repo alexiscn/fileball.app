@@ -14,6 +14,7 @@ Developing...
 
 - ADDED: add resource drive to Aliyun Drive
 - ADDED: add Mode selection to FTP connection
+- FIXED: fix issue that file size calculation error
 
 ## **Version 1.2.27**
 

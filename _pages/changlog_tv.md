@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.18**
+
+Developing...
+
+- ADDED: add resource drive support for aliyun drive
+- FIXED: fix issue that screen saver may be shown during playback
+- FIXED: fix issue that file size calculation error
+
 ## **Version 1.0.17**
 
 date: 2023-07-25 (build 65) 
