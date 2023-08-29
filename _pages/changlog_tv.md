@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.0.18**
 
-Developing...
+date: 2023-08-29 (build 66) 
 
 - ADDED: add resource drive support for aliyun drive
 - FIXED: fix issue that screen saver may be shown during playback
