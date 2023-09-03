@@ -12,9 +12,11 @@ locale: en
 
 Developing...
 
-- ADDED: add resource drive to Aliyun Drive
+- ADDED: add resource drive support to Aliyun Drive
 - ADDED: add Mode selection to FTP connection
 - FIXED: fix issue that file size calculation error
+
+NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
 
 ## **Version 1.2.27**
 
