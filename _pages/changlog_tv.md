@@ -8,6 +8,12 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.19**
+
+Developing...
+
+- ADDED: add MPV settings
+
 ## **Version 1.0.18**
 
 date: 2023-08-29 (build 66) 
