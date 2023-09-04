@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.2.28**
 
-Developing...
+date: 2023-09-03 (build 201)
 
 - ADDED: add resource drive support to Aliyun Drive
 - ADDED: add Mode selection to FTP connection
