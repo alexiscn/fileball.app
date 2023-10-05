@@ -8,6 +8,18 @@ locale: en
 
 # Changelog
 
+## **Version 1.2.29**
+
+Developing...
+
+- ADDED: add space info to aliyun drive
+- ADDED: add force margin for mpv player
+- ADDED: add video quality picker to aliyun drive
+- IMPROVED: improve user experience of adjusting aspect ratio for video player
+- FIXED: fix issue that auto play next not working with vlc
+
+NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
+
 ## **Version 1.2.28**
 
 date: 2023-09-03 (build 201)
