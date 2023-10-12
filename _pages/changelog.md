@@ -8,9 +8,15 @@ locale: en
 
 # Changelog
 
+## **Version 1.2.30**
+
+- FIXED: fix app stuck issue when closing vlc player
+
+NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
+
 ## **Version 1.2.29**
 
-Developing...
+date: 2023-10-09 (build 202)
 
 - ADDED: add space info to aliyun drive
 - ADDED: add force margin for mpv player
