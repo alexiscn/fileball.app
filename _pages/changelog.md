@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.2.30**
 
+date: 2023-10-13 (build 203)
+
 - FIXED: fix app stuck issue when closing vlc player
 
 NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
