@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.2.31**
 
+date: 2023-10-16 (build 204)
+
 - ADDED: add sort by last episode date added feature to emby series 
 - FIXED: fix crash issue playing ts video with mpv player
 
