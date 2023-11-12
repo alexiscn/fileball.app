@@ -8,6 +8,17 @@ locale: en
 
 # Changelog
 
+## **Version 1.2.32**
+
+Developing...
+
+- ADDED: add control to display available space information to AliyunDrive
+- ADDED: add metadata support to local flac files
+- ADDED: add external subtitle support to play with Infuse
+- ADDED: add child count display to OneDrive
+
+NOTE: In an upcoming release version we will drop support for iOS 14, this will be the last release to support iOS 14.
+
 ## **Version 1.2.31**
 
 date: 2023-10-16 (build 204)
