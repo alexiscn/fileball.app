@@ -15,6 +15,7 @@ Developing...
 - ADDED: add MPV settings
 - ADDED: add QR code login support to BaiduPan
 - ADDED: add support to play with Infuse
+- FIXED: fix issue that password with space can not login
 
 ## **Version 1.0.18**
 

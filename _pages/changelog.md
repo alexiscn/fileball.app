@@ -16,8 +16,11 @@ Developing...
 - ADDED: add metadata support to local flac files
 - ADDED: add external subtitle support to play with Infuse
 - ADDED: add child count display to OneDrive
+- ADDED: add delete feature to emby
+- FIXED: fix issue that some external subtitle can not auto loaded for emby
+- FIXED: fix issue that password with space can not login
 
-NOTE: In an upcoming release version we will drop support for iOS 14, this will be the last release to support iOS 14.
+NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
 
 ## **Version 1.2.31**
 
