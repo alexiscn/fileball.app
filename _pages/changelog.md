@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.2.32**
 
-Developing...
+date: 2023-11-19 (build 205)
 
 - ADDED: add control to display available space information to AliyunDrive
 - ADDED: add metadata support to local flac files
