@@ -8,7 +8,7 @@ locale: en
 
 # Changelog
 
-## **Version 1.2.33
+## **Version 1.2.33**
 
 Developing...
 

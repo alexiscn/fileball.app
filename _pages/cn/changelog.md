@@ -8,7 +8,7 @@ locale: cn
 
 # 最近更新
 
-## **Version 1.2.32**
+## **Version 1.2.33**
 
 开发中...
 
