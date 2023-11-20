@@ -8,6 +8,16 @@ locale: en
 
 # Changelog
 
+## **Version 1.2.33
+
+Developing...
+
+- ADDED: add tiff/bmp image support
+- ADDED: add swipe to delete cloud search result files
+- IMPROVED: improve user experience of adjust brightness for video player
+
+NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
+
 ## **Version 1.2.32**
 
 date: 2023-11-19 (build 205)
