@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.0.19**
 
-Developing...
+date: 2023-11-21 (build 67) 
 
 - ADDED: add MPV settings
 - ADDED: add QR code login support to BaiduPan
