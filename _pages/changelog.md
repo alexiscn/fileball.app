@@ -15,6 +15,8 @@ Developing...
 - ADDED: add tiff/bmp image support
 - ADDED: add swipe to delete cloud search result files
 - IMPROVED: improve user experience of adjust brightness for video player
+- IMPROVED: improve connect speed to BaiduPan
+- FIXED: fix issue that thumbnail of local file may displayed incorrectly
 
 NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
 
