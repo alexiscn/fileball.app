@@ -14,9 +14,13 @@ Developing...
 
 - ADDED: add tiff/bmp image support
 - ADDED: add swipe to delete cloud search result files
+- ADDED: add sort by IMDb rating to emby list
 - IMPROVED: improve user experience of adjust brightness for video player
 - IMPROVED: improve connect speed to BaiduPan
 - FIXED: fix issue that thumbnail of local file may displayed incorrectly
+- FIXED: fix possible crash issue entering emby/jellyfin home page
+- FIXED: fix possible crash issue when connecting to some remote service
+- FIXED: fix access token not refreshed issue with BaiduPan
 
 NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
 
