@@ -22,6 +22,7 @@ Developing...
 - FIXED: fix possible crash issue when connecting to some remote service
 - FIXED: fix access token not refreshed issue with BaiduPan
 - FIXED: fix crash issue when connecting to Synology host contains port
+- FIXED: fix possible crash issue when entering emby detail page
 
 NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
 
