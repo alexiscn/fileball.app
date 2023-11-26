@@ -8,9 +8,17 @@ locale: en
 
 # Changelog
 
-## **Version 1.2.33**
+## **Version 1.2.34**
 
 Developing...
+
+- ADDED: add fixed length to format mode to batch rename
+
+NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
+
+## **Version 1.2.33**
+
+date: 2023-11-26 (build 206)
 
 - ADDED: add tiff/bmp image support
 - ADDED: add swipe to delete cloud search result files
