@@ -13,6 +13,8 @@ locale: en
 Developing...
 
 - ADDED: add fixed length to format mode to batch rename
+- FIXED: fix emby media size calculation issue
+- FIXED: fix issue that emby episode page does not scroll to current episode in more from season section
 
 NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
 
