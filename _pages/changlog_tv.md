@@ -8,6 +8,15 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.20**
+
+- ADDED: add tiff and bmp image format support
+- ADDED: add MPV cache duration and size settings
+- ADDED: add MPV cache to disk settings, clear cache after player closed
+- FIXED: fix issue that IPTV may crash when switch channel
+- FIXED: fix issue that remote protocol login may crash
+- FIXED: fix issue that player progress not sync with iOS control center
+
 ## **Version 1.0.19**
 
 date: 2023-11-21 (build 67) 
