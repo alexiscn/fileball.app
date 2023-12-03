@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.0.20**
 
+date: 2023-12-3 (build 68) 
+
 - ADDED: add tiff and bmp image format support
 - ADDED: add MPV cache duration and size settings
 - ADDED: add MPV cache to disk settings, clear cache after player closed
