@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.2.35**
 
-Developing...
+date: 2023-12-05 (build 208)
 
 - FIXED: fixed the problem of not being able to connect to Emby when the address ends with a slash.
 - FIXED: fix issue that local file moved when played with Fileball
