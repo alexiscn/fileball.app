@@ -13,6 +13,7 @@ locale: en
 Developing...
 
 - FIXED: fixed the problem of not being able to connect to Emby when the address ends with a slash.
+- FIXED: fix issue that local file moved when played with Fileball
 
 NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
 
