@@ -8,6 +8,15 @@ locale: en
 
 # Changelog
 
+## **Version 1.2.36**
+
+Developing...
+
+- ADDED: add swipe to delete feature to local file search 
+result
+
+NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
+
 ## **Version 1.2.35**
 
 date: 2023-12-05 (build 208)
