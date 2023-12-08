@@ -14,6 +14,7 @@ Developing...
 
 - ADDED: add swipe to delete feature to local file search 
 result
+- FIXED: fix issue that auto loaded danmaku not shown in setting menu for video player
 
 NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
 
