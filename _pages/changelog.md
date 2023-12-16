@@ -13,6 +13,7 @@ locale: en
 Developing...
 
 - ADDED: add Tranditional Chinese support
+- ADDED: add tif image format support
 - ADDED: add swipe to delete feature to local file search 
 result
 - ADDED: add auto open emby feature
