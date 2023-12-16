@@ -12,12 +12,14 @@ locale: en
 
 Developing...
 
-- ADDED: add support for Tranditional Chinese
+- ADDED: add Tranditional Chinese support
 - ADDED: add swipe to delete feature to local file search 
 result
 - ADDED: add auto open emby feature
 - FIXED: fix issue that auto loaded danmaku not shown in setting menu for video player
-- FIXED: fix issue that app may crash when viewed large images
+- FIXED: fix the problem of not being able to connect to Emby when the address ends with a slash
+- FIXED: fix issue that viewing large number of images may cause crash
+- FIXED: fix issue that deleting local file may cause crash
 
 NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
 
