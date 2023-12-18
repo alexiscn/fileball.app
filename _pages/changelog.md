@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.2.36**
 
-Developing...
+date: 2023-12-18 (build 209)
 
 - ADDED: add Tranditional Chinese support
 - ADDED: add tif image format support
