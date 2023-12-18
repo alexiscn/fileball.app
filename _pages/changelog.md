@@ -8,6 +8,15 @@ locale: en
 
 # Changelog
 
+## **Version 1.2.37**
+
+Developing...
+
+- ADDED: add long press gesture to emby item to show context menu
+- ADDED: add playback record sync feature to aliyun drive
+
+NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
+
 ## **Version 1.2.36**
 
 date: 2023-12-18 (build 209)
