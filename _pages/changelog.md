@@ -14,6 +14,7 @@ Developing...
 
 - ADDED: add long press gesture to emby item to show context menu
 - ADDED: add playback record sync feature to aliyun drive
+- ADDED: add User-Agent setting to IPTV
 - FIXED: fix issue that viewing local image always display the first image
 - FIXED: fix issue that auto launch emby not working on iPad
 
