@@ -13,7 +13,7 @@ locale: en
 Developing...
 
 - ADDED: add long press gesture to emby item to show context menu
-- ADDED: add playback record sync feature to aliyun drive
+- ADDED: add switch to control sync playback record to aliyun drive
 - ADDED: add User-Agent setting to IPTV
 - ADDED: add long press menu to copy origin filename for batch renaming preview items
 - FIXED: fix issue that viewing local image always display the first image
