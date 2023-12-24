@@ -8,9 +8,13 @@ locale: en
 
 # Changelog
 
-## **Version 1.2.37**
+## **Version 1.2.38**
 
-Developing...
+- ADDED: add thumbnail support to aliyun drive music files
+
+NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
+
+## **Version 1.2.37**
 
 - ADDED: add long press gesture to emby item to show context menu
 - ADDED: add switch to control sync playback record to aliyun drive
