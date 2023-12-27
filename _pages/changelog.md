@@ -11,6 +11,8 @@ locale: en
 ## **Version 1.2.38**
 
 - ADDED: add thumbnail support to aliyun drive music files
+- FIXED: fix issue that FaceID not working
+- FIXED: fix issue that photo browser can not long press to save image
 
 NOTE: In an upcoming release version we will drop support for iOS 14, this will be one the last releases to support iOS 14.
 
