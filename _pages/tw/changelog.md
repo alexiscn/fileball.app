@@ -10,6 +10,8 @@ locale: tw
 
 ## **Verison 1.2.38**
 
+發佈日期：2023-12-28 (build 212)
+
 - 新增: 阿里雲盤音樂檔案新增縮圖支持
 - 新增: Emby新增MusicVideo類型支持
 - 修正: 修正FaceID不生效的問題

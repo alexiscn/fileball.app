@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.2.38**
 
-Developing...
+date: 2023-12-28 (build 212)
 
 - ADDED: add thumbnail support to aliyun drive music files
 - ADDED: add MusicVideo type support to emby
