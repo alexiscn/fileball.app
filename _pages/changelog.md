@@ -8,6 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.0**
+
+Developing...
+
+- FIXED: fix issue that thumbnail of Dropbox image display incorrectly
+- FIXED: fix issue that access token not auto refreshed when expired for BaiduPan
+
 ## **Version 1.2.38**
 
 date: 2023-12-28 (build 212)
