@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.1**
+
+Developing...
+
+- FIXED: fix issue that subtitle not working with VLC player
+- FIXED: fix issue that title not showing in now player center with audio from AliyunDrive
+
+
 ## **Version 1.3.0**
 
 date: 2024-01-15 (build 213)
