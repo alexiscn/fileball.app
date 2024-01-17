@@ -12,7 +12,7 @@ locale: en
 
 Developing...
 
-- FIXED: fix issue that subtitle not working with VLC player
+- FIXED: fix issue that local subtitle not working with VLC player
 - FIXED: fix issue that title not showing in now player center with audio from AliyunDrive
 
 
