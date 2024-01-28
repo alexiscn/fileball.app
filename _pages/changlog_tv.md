@@ -8,6 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.21**
+
+- ADDED: add aliyun drive playback history sync support
+- ADDED: add user agent setting for IPTV
+- FIXED: fix issue that Emby playback history not saved
+- FIXED: fix issue that Emby can not connect when address end with slash
+
 ## **Version 1.0.20**
 
 date: 2023-12-3 (build 68) 
