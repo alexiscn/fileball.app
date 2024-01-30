@@ -8,7 +8,15 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.22**
+
+Developing...
+
+- ADDED: add Traditional Chinese support
+
 ## **Version 1.0.21**
+
+date: 2024-01-30 (build 69) 
 
 - ADDED: add aliyun drive playback history sync support
 - ADDED: add user agent setting for IPTV
