@@ -12,6 +12,7 @@ locale: en
 
 Developing...
 
+- ADDED: add batch download feature to cloud files
 - ADDED: add background download support to cloud services
 - ADDED: add thumbnail support to local gif files
 - FIXED: fix issue that local subtitle not working with VLC player
