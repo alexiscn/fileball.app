@@ -15,6 +15,7 @@ Developing...
 - ADDED: add batch download feature to cloud files
 - ADDED: add background download support to cloud services
 - ADDED: add thumbnail support to local gif files
+- IMPROVED: remove 50M limit for downloading files from BaiduPan
 - FIXED: fix issue that local subtitle not working with VLC player
 - FIXED: fix issue that title not showing in now player center with audio from AliyunDrive
 - FIXED: fix issue that playback record of aliyundrive video not updated when clear playback history
