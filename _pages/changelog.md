@@ -8,9 +8,13 @@ locale: en
 
 # Changelog
 
-## **Version 1.3.1**
+## **Version 1.3.2**
 
 Developing...
+
+## **Version 1.3.1**
+
+date: 2024-02-02 (build 215)
 
 - ADDED: add batch download feature to cloud files
 - ADDED: add background download support to cloud services
