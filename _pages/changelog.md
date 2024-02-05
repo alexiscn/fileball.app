@@ -12,6 +12,11 @@ locale: en
 
 Developing...
 
+- ADDED: add preview cloud documents support
+- IMPROVED: improve user experience of download files
+- FIXED: fix issue that navigation bar title too long for aliyun drive
+- FIXED: fix issue that drive info not update in time for aliyun drive
+
 ## **Version 1.3.1**
 
 date: 2024-02-02 (build 215)
