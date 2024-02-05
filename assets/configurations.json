@@ -55,5 +55,6 @@
     "verifyReceiptNetworkNotReachableAction": "reset",
     "qrCodeEnabled": false,
     "detectDYLB": false,
-    "checkSignature": true
+    "checkSignature": true,
+    "telegram": "tg://resolve?domain=FileballApp"
 }
