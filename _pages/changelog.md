@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.3.2**
 
-Developing...
+date: 2024-02-06 (build 216)
 
 - ADDED: add preview cloud documents support
 - IMPROVED: improve user experience of download files
