@@ -8,6 +8,12 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.3**
+
+- FIXED: fix stuttering issue when browsing OneDrive images
+- FIXED: fix issue that some video from alist can not be played
+- FIXED: fix issue that video from webdav with password can not be played via external player
+
 ## **Version 1.3.2**
 
 date: 2024-02-06 (build 216)
