@@ -8,6 +8,13 @@ locale: tw
 
 # 最近更新
 
+## **Version 1.3.4**
+
+Developing...
+
+- FIXED: fix wrong device orientation when closing the video immediately after opening it
+
+
 ## **Version 1.3.3**
 
 發佈日期：2024-02-11 (build 217)
