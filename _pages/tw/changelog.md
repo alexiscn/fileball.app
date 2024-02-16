@@ -10,11 +10,11 @@ locale: tw
 
 ## **Version 1.3.4**
 
-Developing...
-
-- FIXED: fix wrong device orientation when closing the video immediately after opening it
-- FIXED: fix issue that artwork image of flac file is not displayed in audio player
-
+- 優化: 優化MPV播放器效能
+- 修正: 修正開啟影片立即關閉後螢幕方向會變成橫螢幕的問題
+- 修正: 修正本地flac封面在播放器中不顯示的問題
+- 修正: 修正MPV播放器可能無法顯示畫中畫按鈕的問題
+- 修正: 修正點擊畫中畫按鈕可能無法顯示畫中畫的問題
 
 ## **Version 1.3.3**
 
