@@ -13,6 +13,7 @@ locale: tw
 Developing...
 
 - FIXED: fix wrong device orientation when closing the video immediately after opening it
+- FIXED: fix issue that artwork image of flac file is not displayed in audio player
 
 
 ## **Version 1.3.3**
