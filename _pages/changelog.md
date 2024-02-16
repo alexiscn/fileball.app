@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.3.4**
 
+date: 2024-02-16 (build 218)
+
 - IMPROVED: improve the performance of MPV player
 - FIXED: fix wrong device orientation when closing the video immediately after opening it
 - FIXED: fix issue that artwork image of flac file is not displayed in audio player
