@@ -8,6 +8,12 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.5**
+
+Developing...
+
+- ADDED: add aac audio format support
+
 ## **Version 1.3.4**
 
 date: 2024-02-16 (build 218)
