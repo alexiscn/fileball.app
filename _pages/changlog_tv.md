@@ -13,6 +13,9 @@ locale: en
 Developing...
 
 - ADDED: add Traditional Chinese support
+- ADDED: add support to display iso files for cloud service
+- IMPROVED: improve MPV player performance
+- FIXED: fix issue that playback record of aliyun drive may not be loaded
 
 ## **Version 1.0.21**
 
