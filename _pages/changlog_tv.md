@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.0.22**
 
-Developing...
+date: 2024-02-19 (build 70) 
 
 - ADDED: add Traditional Chinese support
 - ADDED: add support to display iso files for cloud service
