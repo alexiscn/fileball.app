@@ -12,6 +12,7 @@ locale: en
 
 Developing...
 
+- ADDED: add video quality selection for baidu pan
 - ADDED: add aac audio format support
 - FIXED: fix connect issue with two-step verification enabled Synology
 - FIXED: fix download issue with Synology
