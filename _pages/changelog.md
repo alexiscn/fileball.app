@@ -16,6 +16,7 @@ Developing...
 - ADDED: add aac audio format support
 - FIXED: fix connect issue with two-step verification enabled Synology
 - FIXED: fix download issue with Synology
+- FIXED: fix navigation bar layout issue after closing video player for large screen device
 
 ## **Version 1.3.4**
 
