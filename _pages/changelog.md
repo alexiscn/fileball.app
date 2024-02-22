@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.3.5**
 
-Developing...
+date: 2024-02-22 (build 219)
 
 - ADDED: add video quality selection for baidu pan
 - ADDED: add aac audio format support
