@@ -13,6 +13,8 @@ locale: en
 - ADDED: add video quality selection for Aliyun Drive
 - ADDED: add lyrics support for local mp3 audio if lyrics embedded
 - FIXED: fix possible issue that can not play audio from WebDAV
+- FIXED: fix navigation bar layout issue after closing IPTV video player for large screen device
+- FIXED: fix issue that IPTV not paused when entering background
 
 ## **Version 1.3.5**
 
