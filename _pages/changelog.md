@@ -8,6 +8,11 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.6**
+
+- ADDED: add video quality selection for Aliyun Drive
+- FIXED: fix possible issue that can not play audio from WebDAV
+
 ## **Version 1.3.5**
 
 date: 2024-02-22 (build 219)
