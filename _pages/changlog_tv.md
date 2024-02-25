@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.23**
+
+- ADDED: add Siri voice search Traditional Chinese to Simplified Chinese feature
+- IMPROVED: improve remote protocol login user experience
+- FIXED: fix issue that playback record of aliyun drive may not be loaded
+- FIXED: fix issue that Synology with two-step verification can not use Quick Connect ID to login
+- FIXED: fix issue that WebDAV video may not be played
+
 ## **Version 1.0.22**
 
 date: 2024-02-19 (build 70) 
