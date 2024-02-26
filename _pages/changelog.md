@@ -14,6 +14,7 @@ Developing...
 
 - IMPROVED: adjust video quality of baidu pan to 720P
 - FIXED: fix issue that connection tags can be saved
+- FIXED: fix issue that can not login Google Drive 
 
 ## **Version 1.3.6**
 
