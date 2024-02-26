@@ -12,9 +12,12 @@ locale: en
 
 Developing...
 
+- ADDED: add external player support to BaiduPan video
 - IMPROVED: adjust video quality of baidu pan to 720P
 - FIXED: fix issue that connection tags can be saved
 - FIXED: fix issue that can not login Google Drive 
+- FIXED: fix navigation bar layout issue after closing IPTV video player for large screen device
+- FIXED: fix issue that in some case video can not be played when selected video quality for aliyun drive
 
 ## **Version 1.3.6**
 
