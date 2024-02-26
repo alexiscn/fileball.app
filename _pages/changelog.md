@@ -18,6 +18,8 @@ Developing...
 
 ## **Version 1.3.6**
 
+date: 2024-02-26 (build 220)
+
 - ADDED: add video quality selection for Aliyun Drive
 - ADDED: add lyrics support for local mp3 audio if lyrics embedded
 - FIXED: fix possible issue that can not play audio from WebDAV
