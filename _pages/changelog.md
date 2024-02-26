@@ -8,6 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.7**
+
+Developing...
+
+- IMPROVED: adjust video quality of baidu pan to 720P
+- FIXED: fix issue that connection tags can be saved
+
 ## **Version 1.3.6**
 
 - ADDED: add video quality selection for Aliyun Drive
