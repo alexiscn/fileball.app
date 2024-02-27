@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.3.7**
 
-Developing...
+date: 2024-02-27 (build 223)
 
 - ADDED: add external player support to BaiduPan video
 - IMPROVED: adjust video quality of baidu pan to 720P
