@@ -8,7 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.24**
+
+- FIXED: fix crash issue when auto play next video
+
 ## **Version 1.0.23**
+
+date: 2024-02-26 (build 71) 
 
 - ADDED: add Siri voice search Traditional Chinese to Simplified Chinese feature
 - IMPROVED: improve remote protocol login user experience
