@@ -8,6 +8,10 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.8**
+
+- ADDED: add lyrics support for local flac audio if lyrics embedded
+
 ## **Version 1.3.7**
 
 date: 2024-02-27 (build 223)
