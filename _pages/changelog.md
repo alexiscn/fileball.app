@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.3.8**
 
+date: 2024-02-28 (build 224)
+
 - ADDED: add lyrics support for local flac audio if lyrics embedded
 - FIXED: fix crash issue using VLC player playing MP4 video
 - FIXED: adjust video quality of baidu pan to 480P
