@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.0.24**
 
+date: 2024-02-28 (build 72) 
+
 - FIXED: fix crash issue when auto play next video
 
 ## **Version 1.0.23**
