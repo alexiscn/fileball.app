@@ -10,6 +10,12 @@ locale: en
 
 ## **Version 1.0.24**
 
+Developing...
+
+- FIXED: fix issue that search not working with some cloud services
+
+## **Version 1.0.24**
+
 date: 2024-02-28 (build 72) 
 
 - FIXED: fix crash issue when auto play next video
