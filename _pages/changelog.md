@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.10**
+
+Developing...
+
+- ADDED: add progress view to downloading page
+- FIXED: fix thumbnail issue with local alist
+
+
 ## **Version 1.3.8**
 
 date: 2024-02-28 (build 224)
