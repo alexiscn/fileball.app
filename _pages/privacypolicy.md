@@ -7,7 +7,7 @@ locale: en
 ---
 
 **Last updated**  
-June 7 2022
+Mar 8 2024
 
 ## Privacy Policy
 
@@ -26,6 +26,8 @@ Please be confident about our service, all secrets stay on your device, we don't
 
 We may receive some personal data from third parties.
 
+The amount of data collected, the purposes, and the lawful bases for processing are determined by the respective privacy documents of these parties.
+
 | Third Party | Privacy Documents |
 | -- | -- |
 | AliyunDrive | [Privacy Policy](https://terms.alicdn.com/legal-agreement/terms/suit_bu1_alibaba_group/suit_bu1_alibaba_group202102022125_53871.html?spm=aliyundrive.index.0.0.7db16f60C98VE9) |
@@ -34,6 +36,24 @@ We may receive some personal data from third parties.
 | Google Drive | [Privacy Policy](https://policies.google.com/privacy) |
 | OneDrive | [Privacy](https://privacy.microsoft.com/en-gb/privacy) |
 | Box | [Privacy Notice](https://www.box.com/legal/privacypolicy) |
+
+
+We provide you with the possibility to link accounts from third-party services (Google or Microsoft) for integration and synchronization of data.
+
+| Data | Reasons for Processing | Data Storage |
+| - | - | - |
+| Files on the cloud of the third-party service | Providing you with the functionality of the App | We store the data during your use of the App |
+
+You may upload, create or edit different kinds of documents or content.
+
+| Data | Reasons for Processing | Data Storage |
+| - | - | - |
+| Files | Providing you with the free functionality of the App | We do not store your files |
+
+**Data Sharing with Third Parties**
+
+We do not share your personal data with any third party.
+
 
 **Cookies**
 
