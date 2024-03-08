@@ -21,6 +21,20 @@ In short, the Fileball app itself does not collect any data from you.
 
 Please be confident about our service, all secrets stay on your device, we don't have control over them.
 
+We provide you with the possibility to link accounts from third-party services (Google or Microsoft) for integration and synchronization of data.
+
+| Data | Reasons for Processing | Data Storage |
+| - | - | - |
+| Files on the cloud of the third-party service | Providing you with the functionality of the App | We store the data during your use of the App |
+
+You may upload, create or edit different kinds of documents or content.
+
+| Data | Reasons for Processing | Data Storage |
+| - | - | - |
+| Files | Providing you with the free functionality of the App | We do not store your files |
+
+We provide you with the functionality for data transfer. With Wi-Fi, you can transfer files and photos from a computer to your iPhone or iPad and vice versa. Please note! All user data is transmitted exclusively over the local network and never gets to our or any other server.
+
 
 **Data Received from Third Parties**
 
@@ -37,18 +51,6 @@ The amount of data collected, the purposes, and the lawful bases for processing 
 | OneDrive | [Privacy](https://privacy.microsoft.com/en-gb/privacy) |
 | Box | [Privacy Notice](https://www.box.com/legal/privacypolicy) |
 
-
-We provide you with the possibility to link accounts from third-party services (Google or Microsoft) for integration and synchronization of data.
-
-| Data | Reasons for Processing | Data Storage |
-| - | - | - |
-| Files on the cloud of the third-party service | Providing you with the functionality of the App | We store the data during your use of the App |
-
-You may upload, create or edit different kinds of documents or content.
-
-| Data | Reasons for Processing | Data Storage |
-| - | - | - |
-| Files | Providing you with the free functionality of the App | We do not store your files |
 
 **Data Sharing with Third Parties**
 
