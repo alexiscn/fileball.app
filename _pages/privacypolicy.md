@@ -21,6 +21,15 @@ In short, the Fileball app itself does not collect any data from you.
 
 Please be confident about our service, all secrets stay on your device, we don't have control over them.
 
+
+**Data Received from Third Parties**
+
+We may receive some personal data from third parties.
+
+| - | - |
+| Third Party | Privacy Documents |
+| Google Drive | [Privacy Policy](https://policies.google.com/privacy) |
+
 **Cookies**
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. Fileball does not use these "cookies" explicitly.
