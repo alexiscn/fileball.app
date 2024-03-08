@@ -26,9 +26,14 @@ Please be confident about our service, all secrets stay on your device, we don't
 
 We may receive some personal data from third parties.
 
-| - | - |
 | Third Party | Privacy Documents |
+| -- | -- |
+| AliyunDrive | [Privacy Policy](https://terms.alicdn.com/legal-agreement/terms/suit_bu1_alibaba_group/suit_bu1_alibaba_group202102022125_53871.html?spm=aliyundrive.index.0.0.7db16f60C98VE9) |
+| BaiduPan | [Agreement](https://pan.baidu.com/disk/agreement#/) |
+| Dropbox | [Privacy Policy](https://www.dropbox.com/privacy) |
 | Google Drive | [Privacy Policy](https://policies.google.com/privacy) |
+| OneDrive | [Privacy](https://privacy.microsoft.com/en-gb/privacy) |
+| Box | [Privacy Notice](https://www.box.com/legal/privacypolicy) |
 
 **Cookies**
 
