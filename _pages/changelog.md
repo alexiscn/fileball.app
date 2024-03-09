@@ -13,7 +13,11 @@ locale: en
 Developing...
 
 - ADDED: add progress view to downloading page
+- ADDED: add chapter feature to video player
+- ADDED: add video version select feature to video player for emby
+- ADDED: add file size info to mpv video player metadata info popup
 - FIXED: fix thumbnail issue with local alist
+- FIXED: fix issue that search result of subtitles not remembered when playing emby video
 
 
 ## **Version 1.3.8**
