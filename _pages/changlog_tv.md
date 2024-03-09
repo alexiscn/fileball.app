@@ -12,7 +12,10 @@ locale: en
 
 Developing...
 
+- ADDED: add cluster search feature to emby
+- IMPROVED: improve voice search input box to automatically convert traditional to simplified Chinese when the traditional to simplified switch is turned on
 - FIXED: fix issue that search not working with some cloud services
+- FIXED: fix issue that playback progress not stopped correctly after select episode for Emby
 
 ## **Version 1.0.24**
 
