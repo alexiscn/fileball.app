@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.0.24**
 
-Developing...
+date: 2024-03-11 (build 73) 
 
 - ADDED: add cluster search feature to emby
 - IMPROVED: improve voice search input box to automatically convert traditional to simplified Chinese when the traditional to simplified switch is turned on
