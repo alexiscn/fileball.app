@@ -7,7 +7,7 @@ locale: en
 ---
 
 **Last updated**  
-Mar 8 2024
+Mar 14 2024
 
 ## Privacy Policy
 
@@ -25,7 +25,7 @@ We provide you with the possibility to link accounts from third-party services (
 
 | Data | Reasons for Processing | Data Storage |
 | - | - | - |
-| Files on the cloud of the third-party service | Providing you with the functionality of the App | We store the data during your use of the App |
+| Files on the cloud of the third-party service | Providing you with the functionality of the App | We store the data during your use of the App in memory |
 
 You may upload, create or edit different kinds of documents or content.
 
