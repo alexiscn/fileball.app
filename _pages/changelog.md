@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.3.10**
 
-Developing...
+date: 2024-03-13 (build 225)
 
 - ADDED: add progress view to downloading page
 - ADDED: add chapter feature to video player
