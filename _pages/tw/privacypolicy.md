@@ -43,7 +43,7 @@ Fileball是一款iOS的檔案管理應用，支援音樂播放器、影片播放
 
 | 第三方 | 隱私權文件 |
 | -- | -- |
-| 阿里雲盤 | [隱私權政策](https://terms.alicdn.com/legal-agreement/terms/suit_bu1_alibaba_group/suit_bu1_alibaba_group202102022125_53871.html?spm=aliyundrive102022125_53871.html?spm=aliyundriveive.index.0.079
+| 阿里雲盤 | [隱私權政策](https://terms.alicdn.com/legal-agreement/terms/suit_bu1_alibaba_group/suit_bu1_alibaba_group202102022125_53871.html?spm=aliyundrive102022125_53871.html?spm=aliyundriveive.index.0.079) |
 | 百度雲端硬碟 | [使用者協議](https://pan.baidu.com/disk/agreement#/) |
 | Dropbox | [隱私權政策](https://www.dropbox.com/privacy) |
 | Google Drive | [隱私權政策](https://policies.google.com/privacy) |
