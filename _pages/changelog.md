@@ -8,6 +8,17 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.11**
+
+- ADDED: add remember audio playback record feature
+- ADDED: add next up section to Emby/Jellyfin home page
+- ADDED: add preview feature to text editor
+- ADDED: add using other encoding to reopen file to text editor
+- FIXED: fix issue that when user tap skip ending button, the video will not be marked as played
+- FIXED: fix issue that subtitle not loaded correctly when play next video track
+- FIXED: fix issue that some video on emby can not be downloaded
+- FIXED: fix issue that adjust skip opening and ending popup display when player in portrait mode
+
 ## **Version 1.3.10**
 
 date: 2024-03-13 (build 225)
