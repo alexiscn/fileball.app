@@ -14,6 +14,7 @@ locale: en
 - ADDED: add next up section to Emby/Jellyfin home page
 - ADDED: add preview feature to text editor
 - ADDED: add using other encoding to reopen file to text editor
+- IMPROVED: improve user experience of entering picture in picture mode
 - FIXED: fix issue that when user tap skip ending button, the video will not be marked as played
 - FIXED: fix issue that subtitle not loaded correctly when play next video track
 - FIXED: fix issue that some video on emby can not be downloaded
