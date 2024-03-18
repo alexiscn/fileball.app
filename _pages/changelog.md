@@ -10,6 +10,7 @@ locale: en
 
 ## **Version 1.3.12**
 
+- FIXED: fix issue that picture in picture take effect when app in background even if auto pip is turned off
 - FIXED: fix issue that emby season page maybe displayed empty
 - FIXED: fix issue that audio track not loaded correctly when play next video track
 - FIXED: fix issue that artwork of aliyun video not displayed in now playing center
