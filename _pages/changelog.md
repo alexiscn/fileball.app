@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.3.11**
 
+date: 2024-03-18 (build 226)
+
 - ADDED: add remember audio playback record feature
 - ADDED: add next up section to Emby/Jellyfin home page
 - ADDED: add preview feature to text editor
