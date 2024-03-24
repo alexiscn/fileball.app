@@ -8,6 +8,11 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.13**
+
+- ADDED: add screen capture toggle button to playback control page
+- FIXED: fix issue that some programs missing when the url contains Chinese characters for IPTV
+
 ## **Version 1.3.12**
 
 date: 2024-03-19 (build 227)
