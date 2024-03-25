@@ -8,6 +8,12 @@ locale: tw
 
 # 最近更新
 
+## **Version 1.3.14**
+
+Developing...
+
+- FIXED: fix issue that next up sections not shown for Jellyfin
+
 ## **Version 1.3.13**
 
 - 新增: 播放控制新增是否顯示截圖按鈕的開關
