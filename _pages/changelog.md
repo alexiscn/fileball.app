@@ -8,7 +8,15 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.14**
+
+Developing...
+
+- FIXED: fix issue that next up sections not shown for Jellyfin
+
 ## **Version 1.3.13**
+
+date: 2024-03-26 (build 228)
 
 - ADDED: add screen capture toggle button to playback control page
 - FIXED: fix issue that some programs missing when the url contains Chinese characters for IPTV
