@@ -12,6 +12,8 @@ locale: en
 
 Developing...
 
+- IMPROVED: improve user experience of entering picture in picture mode
+- IMPROVED: change default path to /dav for WebdAV protocol
 - FIXED: fix issue that next up sections not shown for Jellyfin
 
 ## **Version 1.3.13**
