@@ -15,6 +15,7 @@ Developing...
 - IMPROVED: improve user experience of entering picture in picture mode
 - IMPROVED: change default path to /dav for WebdAV protocol
 - FIXED: fix issue that next up sections not shown for Jellyfin
+- FIXED: fix issue that program with ipv6 address can not be parsed for M3U
 
 ## **Version 1.3.13**
 
