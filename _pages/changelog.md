@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.3.14**
 
-Developing...
+date: 2024-03-29 (build 229)
 
 - IMPROVED: improve user experience of entering picture in picture mode
 - IMPROVED: change default path to /dav for WebdAV protocol
