@@ -8,6 +8,11 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.15**
+
+Developing...
+
+
 ## **Version 1.3.14**
 
 date: 2024-03-29 (build 229)

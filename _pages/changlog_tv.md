@@ -8,6 +8,20 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.26**
+
+Developing...
+
+- ADDED: add Top Shelf support for Emby
+- ADDED: add subtitle font size adjustment feature to player more panel
+- ADDED: add subtitle color adjustment feature to player more panel
+
+## **Version 1.0.25**
+
+date: 2024-02-28 (build 72) 
+
+- FIXED: fix issue that app crash when auto play next video
+
 ## **Version 1.0.24**
 
 date: 2024-03-11 (build 73) 
