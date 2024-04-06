@@ -13,8 +13,12 @@ locale: en
 Developing...
 
 - ADDED: add Top Shelf support for Emby
+- ADDDED: add upcoming area to Emby/Jellyfin home
+- ADDED: add search subtitle feature to player more panel
 - ADDED: add subtitle font size adjustment feature to player more panel
 - ADDED: add subtitle color adjustment feature to player more panel
+- ADDED: add subtitle position adjustment feature to MPV player
+- IMPROVED: change default path to /dav for WebdAV protocol
 
 ## **Version 1.0.25**
 
