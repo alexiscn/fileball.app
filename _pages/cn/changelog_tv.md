@@ -10,7 +10,7 @@ locale: cn
 
 ## **Version 1.0.26**
 
-开发中...
+发布日期: 2024-04-08 (build 74) 
 
 - 新增: Emby新增显示在Top Shelf的功能
 - 新增: Emby/Jellyfin 首页新增即将播放区域

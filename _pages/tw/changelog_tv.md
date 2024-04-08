@@ -10,6 +10,8 @@ locale: tw
 
 ## **Version 1.0.26**
 
+發佈日期: 2024-04-08 (build 74)
+
 - 新增: Emby新增顯示在Top Shelf的功能
 - 新增: Emby/Jellyfin 首頁新增即將播放區域
 - 新增: 播放器更多面板新增搜尋字幕的功能

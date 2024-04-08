@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.0.26**
 
-Developing...
+date: 2024-04-08 (build 74) 
 
 - ADDED: add Top Shelf support for Emby
 - ADDDED: add upcoming area to Emby/Jellyfin home
@@ -21,12 +21,6 @@ Developing...
 - IMPROVED: change default path to /dav for WebdAV protocol
 
 ## **Version 1.0.25**
-
-date: 2024-02-28 (build 72) 
-
-- FIXED: fix issue that app crash when auto play next video
-
-## **Version 1.0.24**
 
 date: 2024-03-11 (build 73) 
 
