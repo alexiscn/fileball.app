@@ -10,7 +10,8 @@ locale: en
 
 ## **Version 1.3.15**
 
-Developing...
+- IMPROVED: improve user experience of entering picture in picture mode
+- FIXED: fix issue that can not resume from library after switch drive for aliyun drive
 
 
 ## **Version 1.3.14**
