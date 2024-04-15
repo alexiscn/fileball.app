@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.3.15**
 
+date: 2024-04-15 (build 230)
+
 - IMPROVED: improve user experience of entering picture in picture mode
 - FIXED: fix issue that can not resume from library after switch drive for aliyun drive
 
