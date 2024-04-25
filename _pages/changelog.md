@@ -10,6 +10,12 @@ locale: en
 
 ## **Version 1.3.15**
 
+Developing...
+
+- FIXED: fix issue that can not view all files in the folder for Google Drive
+
+## **Version 1.3.15**
+
 date: 2024-04-15 (build 230)
 
 - IMPROVED: improve user experience of entering picture in picture mode
