@@ -13,6 +13,7 @@ locale: en
 Developing...
 
 - FIXED: fix issue that can not view all files in the folder for Google Drive
+- FIXED: fix issue that subtitle not auto selected when there is only one subtitle available for emby
 
 ## **Version 1.3.15**
 
