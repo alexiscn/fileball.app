@@ -8,9 +8,16 @@ locale: en
 
 # Changelog
 
-## **Version 1.3.15**
+## **Version 1.3.17**
 
 Developing...
+
+- IMPROVED: The cloud service automatically loads subtitles and does not distinguish between uppercase and lowercase letters
+- FIXED: fix crash issue that select found dlna device twice
+
+## **Version 1.3.16**
+
+date: 2024-04-30 (build 231)
 
 - FIXED: fix issue that can not view all files in the folder for Google Drive
 - FIXED: fix issue that subtitle not auto selected when there is only one subtitle available for emby
