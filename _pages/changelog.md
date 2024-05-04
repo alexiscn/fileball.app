@@ -12,8 +12,11 @@ locale: en
 
 Developing...
 
+- ADDED: add force refresh menu to Alist protocol, admin permission required
 - IMPROVED: The cloud service automatically loads subtitles and does not distinguish between uppercase and lowercase letters
 - FIXED: fix crash issue that select found dlna device twice
+- FIXED: fix issue that some FTP may not be connected
+- FIXED: fix issue that some photos can not be viewed for Alist protocol
 
 ## **Version 1.3.16**
 
