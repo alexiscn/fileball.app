@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.3.17**
 
-Developing...
+date: 2024-05-05 (build 232)
 
 - ADDED: add force refresh menu to Alist protocol, admin permission required
 - IMPROVED: The cloud service automatically loads subtitles and does not distinguish between uppercase and lowercase letters
