@@ -8,6 +8,18 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.18**
+
+- ADDED: add Plex feature to lab
+- ADDED: add fast forward and fast backward feature to audio player
+- ADDED: add playback rate feature to audio player
+- FIXED: fix issue that some external ass subtitles can not be loaded for Emby/Jellyfin
+- FIXED: fix issue that subtitles/lrcs can not be loaded when cloud file list is filtered
+- FIXED: fix issue that text file with non-utf8 encoding can not be opened with text editor
+- FIXED: fix connection issue with custom port for Synology protocol
+- FIXED: fix playback issue with video from Google Drive using default player
+
+
 ## **Version 1.3.17**
 
 date: 2024-05-05 (build 232)
