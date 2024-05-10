@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.3.18**
 
+date: 2024-05-10 (build 233)
+
 - ADDED: add Plex feature to lab
 - ADDED: add fast forward and fast backward feature to audio player
 - ADDED: add playback rate feature to audio player
