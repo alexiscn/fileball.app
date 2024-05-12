@@ -8,6 +8,11 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.19**
+
+- ADDED: add custom sub font feature to mpv player
+- FIXED:: fix some bugs of plex
+
 ## **Version 1.3.18**
 
 date: 2024-05-10 (build 233)
