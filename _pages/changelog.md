@@ -8,6 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.20**
+
+- FIXED: fix issue cloud video playlist may in disorder
+- FIXED: fix issue that the Emby details page may not be displayed
+- FIXED: fix issue that unable to delete Jellyfin videos
+- FIXED: fi issue that modifying the video resolution of AliyunDrive may not take effect
+
 ## **Version 1.3.19**
 
 date: 2024-05-13 (build 234)
