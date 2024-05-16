@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.3.20**
 
+date: 2024-05-15 (build 235)
+
 - FIXED: fix issue cloud video playlist may in disorder
 - FIXED: fix issue that the Emby details page may not be displayed
 - FIXED: fix issue that unable to delete Jellyfin videos
