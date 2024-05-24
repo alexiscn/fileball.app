@@ -8,6 +8,21 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.27**
+
+- ADDED: add Plex feature to lab
+- IMPROVED: improve Chinese subtitle matching logic
+- IMPROVED: The cloud service automatically loads subtitles and does not distinguish between uppercase and lowercase letters
+- FIXED: fix issue that some emby may not update playback time properly
+- FIXED: fix issue that the Emby details page may not be displayed
+- FIXED: fix issue that some external ass subtitles can not be loaded for Emby/Jellyfin
+- FIXED: fix connection issue with custom port for Synology protocol
+- FIXED: fix playback issue with video from Google Drive using default player
+- FIXED: fix issue that some FTP may not be connected
+- FIXED: fix issue that can not view all files in the folder for Google Drive
+- FIXED: fix issue that subtitle not auto selected when there is only one subtitle available for emby
+- FIXED: fix issue that can not resume from library after switch drive for aliyun drive
+
 ## **Version 1.0.26**
 
 date: 2024-04-08 (build 74) 
