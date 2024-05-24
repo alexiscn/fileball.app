@@ -8,6 +8,18 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.21**
+
+Developing...
+
+- ADDED: add a switch to hide the PRO icon in general settings
+- IMPROVED: improve danmaku matching logic
+- IMPROVED: improve Chinese subtitle matching logic
+- FIXED: fix issue that some custom fonts could not load properly
+- FIXED: fix issue that audio files from AliyunDrive may not play
+- FIXED: fix issue that some emby may not update playback time properly
+- FIXED: fix some bugs of plex
+
 ## **Version 1.3.20**
 
 date: 2024-05-15 (build 235)
