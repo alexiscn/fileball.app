@@ -41,7 +41,7 @@
             "6f191dae5a2fb691d4b55a6a1c495acd",
             "1535455c16c954137a1dbe1e21b2aa79"]
     },
-    "whitelist": ["07b81f59fb01f7c8dda3a9b2bc65057d","a2b43b66a946e2527ed3f7a8cd584af2", "8fb926f3a8a46639fd310cf1b6cba0d0","d6e3a8b48290777861b46ec63ea535b7", "14a2e2eea6361119c622f53a4ad80708", "98911a78b0b0de1c8bc09e993fdf3b03", "2f8332492dfefb709eaf3e54c4df84ae"],
+    "whitelist": ["07b81f59fb01f7c8dda3a9b2bc65057d","a2b43b66a946e2527ed3f7a8cd584af2", "8fb926f3a8a46639fd310cf1b6cba0d0","d6e3a8b48290777861b46ec63ea535b7", "14a2e2eea6361119c622f53a4ad80708", "98911a78b0b0de1c8bc09e993fdf3b03", "2f8332492dfefb709eaf3e54c4df84ae", "bd2a3b63f6978195ac38e696202a53c5"],
     "verifyReceipt": true,
     "verifyLocalReceipt": false,
     "dandanplayEnabled": true,
