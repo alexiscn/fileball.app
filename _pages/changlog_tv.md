@@ -10,7 +10,6 @@ locale: en
 
 ## **Version 1.0.27**
 
-- ADDED: add Plex feature to lab
 - IMPROVED: improve Chinese subtitle matching logic
 - IMPROVED: The cloud service automatically loads subtitles and does not distinguish between uppercase and lowercase letters
 - FIXED: fix issue that some emby may not update playback time properly
