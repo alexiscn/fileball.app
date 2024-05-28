@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.3.22**
 
+date: 2024-05-28 (build 237)
+
 - FIXED: fix issue that some emby may not update playback time properly
 
 ## **Version 1.3.21**
