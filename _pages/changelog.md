@@ -8,9 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.22**
+
+- FIXED: fix issue that some emby may not update playback time properly
+
 ## **Version 1.3.21**
 
-Developing...
+date: 2024-05-25 (build 236)
 
 - ADDED: add a switch to hide the PRO icon in general settings
 - IMPROVED: improve danmaku matching logic

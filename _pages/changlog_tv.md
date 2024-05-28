@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.0.27**
 
+date: 2024-05-27 (build 75) 
+
 - IMPROVED: improve Chinese subtitle matching logic
 - IMPROVED: The cloud service automatically loads subtitles and does not distinguish between uppercase and lowercase letters
 - FIXED: fix issue that some emby may not update playback time properly
