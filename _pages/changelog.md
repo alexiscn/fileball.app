@@ -8,6 +8,12 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.23**
+
+- FIXED: fix playback issue that some M3U
+- FIXED: fix issue that some SFTP can not be connected
+- FIXED: fix issue that audio playback record not saved properly
+
 ## **Version 1.3.22**
 
 date: 2024-05-28 (build 237)
