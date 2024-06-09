@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.3.23**
 
+date: 2024-06-09 (build 238)
+
 - FIXED: fix playback issue that some M3U
 - FIXED: fix issue that some SFTP can not be connected
 - FIXED: fix issue that audio playback record not saved properly
