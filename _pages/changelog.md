@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.24**
+
+- ADDED: add screencast menu to cloud video files
+- IMPROVED: improve default subtitle load logic for mpv player
+- IMPROVED: improve single word search for emby
+- FIXED: fix issue that some words of subtitle may display incorrectly for default player
+- FIXED: fix some bugs of plex
+
 ## **Version 1.3.23**
 
 date: 2024-06-09 (build 238)
@@ -48,7 +56,7 @@ date: 2024-05-15 (build 235)
 date: 2024-05-13 (build 234)
 
 - ADDED: add custom sub font feature to mpv player
-- FIXED:: fix some bugs of plex
+- FIXED: fix some bugs of plex
 
 ## **Version 1.3.18**
 
