@@ -10,9 +10,11 @@ locale: en
 
 ## **Version 1.3.24**
 
+- ADDED: add PhotoAlbum support to emby
 - ADDED: add screencast menu to cloud video files
 - IMPROVED: improve default subtitle load logic for mpv player
 - IMPROVED: improve single word search for emby
+- IMPROVED: improve user experience of auto launch emby
 - FIXED: fix issue that some words of subtitle may display incorrectly for default player
 - FIXED: fix some bugs of plex
 
