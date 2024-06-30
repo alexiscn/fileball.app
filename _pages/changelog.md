@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.25**
+
+Developing...
+
+- IMPROVED: improve user experience of auto launch emby on iPad
+- FIXED: fix issue that iso files can not played with external players
+- FIXED: fix layout issue after close video player for emby
+
 ## **Version 1.3.24**
 
 - ADDED: add PhotoAlbum support to emby
