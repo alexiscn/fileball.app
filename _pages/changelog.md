@@ -18,6 +18,8 @@ Developing...
 
 ## **Version 1.3.24**
 
+date: 2024-06-23 (build 239)
+
 - ADDED: add PhotoAlbum support to emby
 - ADDED: add screencast menu to cloud video files
 - IMPROVED: improve default subtitle load logic for mpv player
