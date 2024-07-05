@@ -15,6 +15,10 @@ Developing...
 - IMPROVED: improve user experience of auto launch emby on iPad
 - FIXED: fix issue that iso files can not played with external players
 - FIXED: fix layout issue after close video player for emby
+- FIXED: fix issue that some iptv program list info maybe not loaded correctly
+- FIXED: fix issue that some local m3u connection maybe not deleted correctly
+- FIXED: fix issue that lyrics not support multiple lines for audio player
+
 
 ## **Version 1.3.24**
 
