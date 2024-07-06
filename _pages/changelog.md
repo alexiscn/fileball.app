@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.3.25**
 
-Developing...
+date: 2024-07-06 (build 240)
 
 - IMPROVED: improve user experience of auto launch emby on iPad
 - FIXED: fix issue that iso files can not played with external players
