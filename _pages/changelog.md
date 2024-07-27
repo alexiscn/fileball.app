@@ -8,6 +8,16 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.26**
+
+- ADDED: add asf video format support
+- ADDED: add sd video quality to aliyun drive
+- IMPROVED: improve ux for video more subtitle settings
+- FIXED: fix issue that some embbed lyrics not loaded for audio player
+- FIXED: fix issue that imported files always stored to root directory
+- FIXED: fix issue that subtitle with the same name to video file can not be automatically loaded for local video files
+- FIXED: try fix hardware decoding losing for mpv player
+
 ## **Version 1.3.25**
 
 date: 2024-07-06 (build 240)
