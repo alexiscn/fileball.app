@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.3.26**
 
+date: 2024-07-28 (build 241)
+
 - ADDED: add asf video format support
 - ADDED: add sd video quality to aliyun drive
 - IMPROVED: improve ux for video more subtitle settings
