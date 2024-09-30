@@ -8,6 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.27**
+
+- FIXED: fix issue that screen will turn off when WiFi transfer files
+- FIXED: fix issue that subtitle delay adjust can not be negative number
+- FIXED: fix issue that danmaku custom address not work after relaunch app
+- FIXED: fix issue that local video can not auto load subtitle
+
 ## **Version 1.3.26**
 
 date: 2024-07-28 (build 241)
