@@ -8,7 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.28**
+
+- FIXED: fix issue that open google drive maybe crash
+- FIXED: fix issue that some epg can not be parsed correctly
+
 ## **Version 1.3.27**
+
+date: 2024-10-02 (build 243)
 
 - FIXED: fix issue that screen will turn off when WiFi transfer files
 - FIXED: fix issue that subtitle delay adjust can not be negative number
