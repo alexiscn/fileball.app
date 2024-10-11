@@ -10,8 +10,10 @@ locale: en
 
 ## **Version 1.3.28**
 
+- ADDED: add pull to refresh feature to local file list
 - FIXED: fix issue that open google drive maybe crash
 - FIXED: fix issue that some epg can not be parsed correctly
+- FIXED: fix issues with iPadOS 18
 
 ## **Version 1.3.27**
 
