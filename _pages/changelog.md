@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.3.28**
 
+date: 2024-10-12 (build 244)
+
 - ADDED: add pull to refresh feature to local file list
 - FIXED: fix issue that open google drive maybe crash
 - FIXED: fix issue that some epg can not be parsed correctly
