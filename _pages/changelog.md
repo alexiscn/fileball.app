@@ -8,6 +8,15 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.29**
+
+Developing...
+
+- ADDED: add AV1 decode feature to mpv player
+- ADDED: add random sort feature to emby
+- FIXED: fix issue that page can not scroll to bottom of emby item detail page for iPad 18
+- FIXED: fix issue that could not select emby video version after skip to next item
+
 ## **Version 1.3.28**
 
 date: 2024-10-12 (build 244)
