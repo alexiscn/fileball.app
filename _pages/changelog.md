@@ -10,8 +10,6 @@ locale: en
 
 ## **Version 1.3.29**
 
-Developing...
-
 - ADDED: add AV1 decode feature to mpv player
 - ADDED: add random sort feature to emby
 - ADDED: add rename feature in search result to cloud service
