@@ -18,6 +18,7 @@ Developing...
 - FIXED: fix issue that page can not scroll to bottom of emby item detail page for iPad 18
 - FIXED: fix issue that could not select emby video version after skip to next item
 - FIXED: fix display issue with local documents search for iOS 18
+- FIXED: fix display issue with creating folder for iPad landscape mode
 
 ## **Version 1.3.28**
 
