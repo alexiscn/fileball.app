@@ -14,8 +14,10 @@ Developing...
 
 - ADDED: add AV1 decode feature to mpv player
 - ADDED: add random sort feature to emby
+- ADDED: add rename feature in search result to cloud service
 - FIXED: fix issue that page can not scroll to bottom of emby item detail page for iPad 18
 - FIXED: fix issue that could not select emby video version after skip to next item
+- FIXED: fix display issue with local documents search for iOS 18
 
 ## **Version 1.3.28**
 
