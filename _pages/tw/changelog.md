@@ -8,6 +8,12 @@ locale: tw
 
 # 最近更新
 
+## **Version 1.3.30**
+
+發佈日期：2024-12-15 (build 246)
+
+- bug fix and performance improvements
+
 ## **Version 1.3.29**
 
 發佈日期：2024-11-23 (build 245)

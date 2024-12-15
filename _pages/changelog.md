@@ -8,6 +8,12 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.30**
+
+date: 2024-12-15 (build 246)
+
+- bug fix and performance improvements
+
 ## **Version 1.3.29**
 
 date: 2024-11-23 (build 245)
