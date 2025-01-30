@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+
+## **Version 1.3.31**
+
+- ADDED: add pip feature to default player
+- IMPROVED: upgrade VLC to 4.0
+- FIXED: fix issue that danmaku can not be searched
+- FIXED: fix issue that subtitle can not be matched for global search
+
 ## **Version 1.3.30**
 
 date: 2024-12-15 (build 246)
