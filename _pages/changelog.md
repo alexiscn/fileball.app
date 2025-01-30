@@ -12,6 +12,7 @@ locale: en
 ## **Version 1.3.31**
 
 - ADDED: add pip feature to default player
+- IMPROVED: improve screen mirroring experience
 - IMPROVED: upgrade VLC to 4.0
 - FIXED: fix issue that danmaku can not be searched
 - FIXED: fix issue that subtitle can not be matched for global search
