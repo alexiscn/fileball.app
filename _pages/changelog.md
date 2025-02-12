@@ -8,8 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.32**
+
+- IMPROVED: downgrade VLC to 3.6.0
+- FIXED: fix issue that Alist protocol can not use IPv6 address
 
 ## **Version 1.3.31**
+
+date: 2025-01-31 (build 247)
 
 - ADDED: add pip feature to default player
 - IMPROVED: improve screen mirroring experience
