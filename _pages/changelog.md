@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.3.32**
 
+date: 2025-02-12 (build 248)
+
 - IMPROVED: downgrade VLC to 3.6.0
 - FIXED: fix issue that Alist protocol can not use IPv6 address
 
