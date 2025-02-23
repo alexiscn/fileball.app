@@ -13,6 +13,7 @@ locale: en
 
 - ADDED: add 115 cloud support
 - ADDED: add 123 cloud support
+- ADDED: add strm text format support
 - FIXED: fix issue that menu not updated after adjusting audio player speed
 
 ## **Version 1.3.32**
