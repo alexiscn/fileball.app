@@ -11,13 +11,13 @@ Mar 14 2024
 
 ## Privacy Policy
 
-Fileball is a file management app for iOS that supports music player, video player and text editor.
+Filebar is a file management app for iOS that supports music player, video player and text editor.
 
 This privacy policy applies to the iOS main app itself, its embedded frameworks and app extensions, and official examples we provided, but obviously not to files that you aaded yourself. 
 
-**Data Collected by Fileball**
+**Data Collected by Filebar**
 
-In short, the Fileball app itself does not collect any data from you. 
+In short, the Filebar app itself does not collect any data from you. 
 
 Please be confident about our service, all secrets stay on your device, we don't have control over them.
 
@@ -59,7 +59,7 @@ We do not share your personal data with any third party.
 
 **Cookies**
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. Fileball does not use these "cookies" explicitly.
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. Filebar does not use these "cookies" explicitly.
 
 **Changes to This Privacy Policy**
 
