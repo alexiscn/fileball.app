@@ -11,6 +11,8 @@ locale: en
 
 ## **Version 1.3.33**
 
+date: 2025-02-27 (build 249)
+
 - ADDED: add 115 cloud support
 - ADDED: add 123 cloud support
 - ADDED: add strm text format support
