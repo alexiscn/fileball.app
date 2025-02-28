@@ -8,6 +8,12 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.34**
+
+- ADDED: add two free app icons
+- FIXED: fix issue that 115 can only display 100 files
+- FIXED: fix issue that 115 scan code may fail in dark mode
+- FIXED: fix issue that 123 cloud some error messages not displayed
 
 ## **Version 1.3.33**
 
