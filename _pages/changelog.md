@@ -8,6 +8,11 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.35**
+
+- ADDED: add fnOS support
+- FIXED: fix issue that 123 cloud can only display 100 files
+
 ## **Version 1.3.34**
 
 date: 2025-03-02 (build 250)
