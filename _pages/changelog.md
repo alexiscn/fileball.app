@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.3.34**
 
+date: 2025-03-02 (build 250)
+
 - ADDED: add two free app icons
 - FIXED: fix issue that 115 can only display 100 files
 - FIXED: fix issue that 115 scan code may fail in dark mode
