@@ -8,7 +8,16 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.36**
+
+- ADDED: add new local danmaku format support
+- FIXED: fix issue that FnOS video can not be played
+- FIXED: fix issue that Emby detail page may not display correctly on iPad
+- FIXED: fix issue that can not select default icon
+
 ## **Version 1.3.35**
+
+date: 2025-03-10 (build 251)
 
 - ADDED: add fnOS support
 - FIXED: fix issue that 123 cloud can only display 100 files
