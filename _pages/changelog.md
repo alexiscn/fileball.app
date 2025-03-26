@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.3.36**
 
+date: 2025-03-21 (build 252)
+
 - ADDED: add new local danmaku format support
 - FIXED: fix issue that FnOS video can not be played
 - FIXED: fix issue that Emby detail page may not display correctly on iPad
