@@ -8,6 +8,15 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.37**
+
+- Added: add date display for 123 Cloud Drive
+- Fixed: fix login issues for some pCloud users
+- Fixed: fix issue where pCloud uploads always went to the root directory
+- Fixed: fix issue where deleting pCloud folders showed "folder not empty" error
+- Fixed: fix issue where 123 Cloud Drive authorization wasn't automatically refreshing after expiration
+
+
 ## **Version 1.3.36**
 
 date: 2025-03-21 (build 252)

@@ -8,6 +8,14 @@ locale: tw
 
 # 最近更新
 
+## **Version 1.3.37**
+
+- Added: Added date display for 123 Cloud Drive
+- Fixed: Fixed login issues for some pCloud users
+- Fixed: Fixed an issue where pCloud uploads always went to the root directory
+- Fixed: Fixed an issue where deleting pCloud folders showed "folder not empty" error
+- Fixed: Fixed an issue where 123 Cloud Drive authorization wasn't automatically refreshing after expiration
+
 ## **Version 1.3.36**
 
 發佈日期：2025-03-21 (build 252)
@@ -499,3 +507,9 @@ locale: tw
 - 修正: 修正彈幕掉幀的問題
 
 注意：在未來的版本中我們會停止對iOS 14的支持，這是最後支援iOS 14的其中一個版本
+
+- 新增: 123雲盤新增日期顯示
+- 修正: 修正部分pCloud用戶無法登入的問題
+- 修正: 修正pCloud上傳文件始終傳到根目錄的問題
+- 修正: 修正刪除pCloud資料夾提示資料夾不為空的問題
+- 修正: 修正123雲盤授權到期沒有自動刷新的問題
