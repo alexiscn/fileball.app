@@ -10,11 +10,11 @@ locale: tw
 
 ## **Version 1.3.37**
 
-- Added: Added date display for 123 Cloud Drive
-- Fixed: Fixed login issues for some pCloud users
-- Fixed: Fixed an issue where pCloud uploads always went to the root directory
-- Fixed: Fixed an issue where deleting pCloud folders showed "folder not empty" error
-- Fixed: Fixed an issue where 123 Cloud Drive authorization wasn't automatically refreshing after expiration
+- 新增: 123雲碟新增日期顯示
+- 修正: 修正部分pCloud用戶無法登入的問題
+- 修正: 修正pCloud上傳檔案始終傳到根目錄的問題
+- 修正: 修正刪除pCloud資料夾提示資料夾不為空的問題
+- 修正: 修正123雲碟授權到期沒有自動更新的問題
 
 ## **Version 1.3.36**
 
