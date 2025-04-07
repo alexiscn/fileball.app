@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.3.37**
 
+date: 2025-04-01 (build 253)
+
 - Added: add date display for 123 Cloud Drive
 - Fixed: fix login issues for some pCloud users
 - Fixed: fix issue where pCloud uploads always went to the root directory
