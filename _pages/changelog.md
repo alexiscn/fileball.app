@@ -10,7 +10,6 @@ locale: en
 
 ## **Version 1.3.38**
 
-- ADDED: Added 115 cloud drive watch history saving feature
 - ADDED: Added display of movie, show, and episode counts in Emby settings page
 - FIXED: Fixed 115 cloud drive access token expiration issue
 - FIXED: Fixed issue where some Emby TV show detail pages' play button had no response
