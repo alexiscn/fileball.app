@@ -8,11 +8,21 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.38**
+
+- ADDED: Added 115 cloud drive watch history saving feature
+- ADDED: Added display of movie, show, and episode counts in Emby settings page
+- FIXED: Fixed 115 cloud drive access token expiration issue
+- FIXED: Fixed issue where some Emby TV show detail pages' play button had no response
+- FIXED: Fixed Alist SSL error causing connection issues
+- FIXED: Fixed issue with playing Google Drive audio files
+
+
 ## **Version 1.3.37**
 
 date: 2025-04-01 (build 253)
 
-- Added: add date display for 123 Cloud Drive
+- ADDED: add date display for 123 Cloud Drive
 - Fixed: fix login issues for some pCloud users
 - Fixed: fix issue where pCloud uploads always went to the root directory
 - Fixed: fix issue where deleting pCloud folders showed "folder not empty" error
