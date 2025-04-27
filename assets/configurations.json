@@ -73,6 +73,6 @@
     "qrCodeEnabled": false,
     "detectDYLB": false,
     "checkSignature": true,
-    "telegram": "tg://resolve?domain=FileballApp",
+    "telegram": "tg://resolve?domain=FilebarApp",
     "twitter": "FileballApp"
 }
