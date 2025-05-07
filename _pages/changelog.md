@@ -8,6 +8,19 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.39**
+
+- ADDED: add unlock password setting for connections
+- ADDED: add long-press download function for cloud service search results
+- IMPROVED: improve Emby episode selection user experience
+- IMPROVED: improve Emby search user experience
+- IMPROVED: made Emby detail page Logo clickable
+- FIXED: fix issue where 115 cloud drive global search results couldn't navigate to corresponding folders
+- FIXED: fix Emby homepage collection data source issue
+- FIXED: fix display issue of Emby detail page on iPad devices when shows have no Logo
+- FIXED: fix Emby music album cover display issue
+
+
 ## **Version 1.3.38**
 
 date: 2025-04-22 (build 255)
