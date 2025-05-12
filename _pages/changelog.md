@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.3.39**
 
+date: 2025-05-08 (build 256)
+
 - ADDED: add unlock password setting for connections
 - ADDED: add long-press download function for cloud service search results
 - IMPROVED: improve Emby episode selection user experience
