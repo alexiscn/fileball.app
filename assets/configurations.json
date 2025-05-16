@@ -61,7 +61,7 @@
         "cd4170767f2fbaa31cbb25e712c8bc19"],
     "verifyReceipt": true,
     "verifyLocalReceipt": false,
-    "dandanplayEnabled": true,
+    "dandanplayEnabled": false,
     "alistEnabled": true,
     "testflightEnabled": false,
     "embyEnabled": true,
