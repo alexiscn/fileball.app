@@ -8,6 +8,15 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.40**
+
+- ADDED: add epub and cbz format support
+- IMPROVED: improve local image browsing user experience
+- IMPROVED: improve image browsing experience for Aliyun Drive, 115, and OneDrive
+- FIXED: fix issue where OneDrive might show error after clicking
+- FIXED: fix issue where some WebDAV videos couldn't be played
+
+
 ## **Version 1.3.39**
 
 date: 2025-05-08 (build 256)
