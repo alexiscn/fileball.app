@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.3.40**
 
+date: 2025-05-22 (build 257)
+
 - ADDED: add epub and cbz format support
 - IMPROVED: improve local image browsing user experience
 - IMPROVED: improve image browsing experience for Aliyun Drive, 115, and OneDrive
