@@ -8,6 +8,15 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.41**
+
+- ADDED: add feature to convert local txt files to epub
+- FIXED: fix issue that unlock password not working for other connections
+- FIXED: fix issue that unlock password can not be edited
+- FIXED: fix issue where some WebDAV videos couldn't be played
+- FIXED: fix issue that unlock password not working when switch emby account in emby home page 
+
+
 ## **Version 1.3.40**
 
 date: 2025-05-22 (build 257)
