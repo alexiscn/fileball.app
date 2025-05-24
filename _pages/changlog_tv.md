@@ -8,6 +8,16 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.32**
+
+- ADDED: add display of movie, show, and episode counts in Emby settings page
+- ADDED: add alist support to connect
+- ADDED: add fnOS support 
+- ADDED: add date display for 123 Cloud Drive
+- FIXED: fix issue that 115 can only display 100 files
+- FIXED: fix issue that 123 can only display 100 files
+- FIXED: fix issue where deleting pCloud folders showed "folder not empty" error
+
 ## **Version 1.0.31**
 
 date: 2025-02-27 (build 81)
