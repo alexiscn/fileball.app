@@ -8,6 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.31**
+
+date: 2025-02-27 (build 81)
+
+- ADDED: add 115 cloud support
+- ADDED: add 123 cloud support
+
 ## **Version 1.0.30**
 
 date: 2025-02-14 (build 78)
