@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.0.32**
 
+date: 2025-05-27 (build 82)
+
 - ADDED: add display of movie, show, and episode counts in Emby settings page
 - ADDED: add alist support to connect
 - ADDED: add fnOS support 
