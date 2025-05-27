@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.3.41**
 
+date: 2025-05-27 (build 258)
+
 - ADDED: add feature to convert local txt files to epub
 - FIXED: fix issue that unlock password not working for other connections
 - FIXED: fix issue that unlock password can not be edited
