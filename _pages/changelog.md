@@ -12,7 +12,7 @@ locale: en
 
 - ADDED: add feature to automatically close audio player after playing current audio in sleep mode
 - ADDED: add opus audio format support
-- FIXED: fix issue that PDF browsing mode not working
+- FIXED: fix PDF browsing mode
 
 ## **Version 1.3.41**
 
