@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.3.42**
 
+date: 2025-06-04 (build 259)
+
 - ADDED: add feature to automatically close audio player after playing current audio in sleep mode
 - ADDED: add opus audio format support
 - FIXED: fix PDF browsing mode
