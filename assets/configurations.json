@@ -62,7 +62,7 @@
     "verifyReceipt": true,
     "verifyLocalReceipt": false,
     "dandanplayEnabled": false,
-    "alistEnabled": true,
+    "alistEnabled": false,
     "testflightEnabled": false,
     "embyEnabled": true,
     "malformedProtection": true,
