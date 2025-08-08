@@ -8,6 +8,14 @@ locale: cn
 
 # 最近更新
 
+## **Version 1.3.43**
+
+- 新增: Emby/Jellyfin 新增备用路线功能
+- 修正: 修正Jellyfin 无法搜索的问题
+- 修正: 修正MPV播放器截图尺寸问题
+- 修正: 修正Jellyfin 无法展示nextup区域的问题
+- 修正: 修正连接密码锁可以被跳过的问题
+
 ## **Version 1.3.42**
 
 发布日期：2025-06-04 (build 259)

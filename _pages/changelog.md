@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.43**
+
+- ADDED: add backup line feature for Emby/Jellyfin
+- FIXED: fix issue where Jellyfin could not search
+- FIXED: fix MPV player screenshot size issue
+- FIXED: fix issue where Jellyfin could not display nextup area
+- FIXED: fix issue where connection password lock could be bypassed
+
 ## **Version 1.3.42**
 
 date: 2025-06-04 (build 259)
