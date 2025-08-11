@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.3.43**
 
+date: 2025-08-11 (build 260)
+
 - ADDED: add backup line feature for Emby/Jellyfin
 - FIXED: fix issue where Jellyfin could not search
 - FIXED: fix MPV player screenshot size issue

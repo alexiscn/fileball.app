@@ -10,6 +10,8 @@ locale: tw
 
 ## **Version 1.3.43**
 
+發佈日期：2025-08-11 (build 260)
+
 - 新增: Emby/Jellyfin 新增備用路線功能
 - 修正: 修正Jellyfin 無法搜尋的問題
 - 修正: 修正MPV播放器截圖尺寸問題
