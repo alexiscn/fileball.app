@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.3.44**
+
+- ADDED: add raw interface support for Emby danmaku plugin
+- FIXED: fix issue that Chinese subtitle may show as boxes
+- FIXED: fix issue that left sidebar shortcuts on iPad can be accessed without unlock password
+- FIXED: fix issue that Emby STRM format video progress reporting is incorrect
+- REMOVED: remove Google Drive support
+
 ## **Version 1.3.43**
 
 date: 2025-08-11 (build 260)
