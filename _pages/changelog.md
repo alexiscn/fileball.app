@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.3.44**
 
+date: 2025-09-23 (build 261)
+
 - ADDED: add raw interface support for Emby danmaku plugin
 - FIXED: fix issue that Chinese subtitle may show as boxes
 - FIXED: fix issue that left sidebar shortcuts on iPad can be accessed without unlock password
