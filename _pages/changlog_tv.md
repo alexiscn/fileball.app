@@ -10,6 +10,12 @@ locale: en
 
 ## **Version 1.0.32**
 
+date: 2025-09-28 (build 83)
+
+- FIXED: fix issue that subtitle shows as box symbols
+
+## **Version 1.0.32**
+
 date: 2025-05-27 (build 82)
 
 - ADDED: add display of movie, show, and episode counts in Emby settings page
