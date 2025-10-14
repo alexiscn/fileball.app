@@ -8,7 +8,7 @@ locale: en
 
 # Changelog
 
-## **Version 1.0.32**
+## **Version 1.0.33**
 
 date: 2025-09-28 (build 83)
 
