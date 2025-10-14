@@ -10,8 +10,10 @@ locale: en
 
 ## **Version 1.4.0**
 
+date: 2025-10-14 (build 262)
+
 - Compatibility: Compatible with iOS 26
-- FIXED: fixed an issue where some STRM Emby videos could not be played.
+- FIXED: fixed an issue where some STRM Emby videos could not be played
 
 
 ## **Version 1.3.44**
