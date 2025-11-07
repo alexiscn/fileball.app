@@ -8,6 +8,16 @@ locale: en
 
 # Changelog
 
+## **Version 1.4.1**
+
+- ADDED: add last playback time in connection list
+- IMPROVED: add animation when closing the player
+- IMPROVED: add toggle to ignore ASS styles
+- FIXED: fix issue where Emby video version selection could not be scrolled on iOS 26
+- FIXED: remove background color of search bar
+- FIXED: fix issue where long-press to save cloud pictures did not work in image browser
+
+
 ## **Version 1.4.0**
 
 date: 2025-10-14 (build 262)
