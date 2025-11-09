@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.4.1**
 
+date: 2025-11-09 (build 263)
+
 - ADDED: add last playback time in connection list
 - IMPROVED: add animation when closing the player
 - IMPROVED: add toggle to ignore ASS styles
