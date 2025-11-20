@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.4.3**
+
+- ADDED: add file upload support feature to 115 Cloud
+- ADDED: add file upload support feature to 123 Cloud
+- FIXED: fix issue where playing a video from Emby aggregated search would create connections for all search results when connecting
+- REMOVED: remove EPUB preview support; EPUB files are opened using the system share panel
+
+
 ## **Version 1.4.1**
 
 date: 2025-11-09 (build 263)
