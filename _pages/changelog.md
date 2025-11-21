@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.4.3**
 
+date: 2025-11-21 (build 265)
+
 - ADDED: add file upload support feature to 115 Cloud
 - ADDED: add file upload support feature to 123 Cloud
 - FIXED: fix issue where playing a video from Emby aggregated search would create connections for all search results when connecting
