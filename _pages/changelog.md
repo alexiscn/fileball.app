@@ -8,6 +8,12 @@ locale: en
 
 # Changelog
 
+## **Version 1.4.4**
+
+ADDED: add support for VTT subtitle format
+ADDED: support for ASS subtitle styles on iOS 18.4 and later
+FIXED: fix issue where casting could not discover devices
+
 ## **Version 1.4.3**
 
 date: 2025-11-21 (build 265)
