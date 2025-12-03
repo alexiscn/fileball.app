@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.4.5**
 
+date: 2025-12-4 (build 267)
+
 - FIXED: fix issue that subtitles in the default player displayed as a box character
 - FIXED: fix issue that local XML danmaku files did not load automatically
 
