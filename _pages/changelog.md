@@ -8,6 +8,10 @@ locale: en
 
 # Changelog
 
+## **Version 1.4.6**
+
+- FIXED: fix issue that external ass subtitles in the default player displayed as a box character
+
 ## **Version 1.4.5**
 
 date: 2025-12-4 (build 267)
