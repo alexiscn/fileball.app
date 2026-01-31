@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.4.6**
 
+date: 2026-01-31 (build 269)
+
 - FIXED: fix issue that external ass subtitles in the default player displayed as a box character
 
 ## **Version 1.4.5**
