@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.4.8**
 
+date: 2026-03-16 (build 271)
+
 - IMPROVED: improve Emby list display for iPad
 - FIXED: fix issue that files are still visible in system Files app when app lock is turned on
 - FIXED: fix issue where comprehensive search results would not display the correct selected Tab after returning from search result detail page
