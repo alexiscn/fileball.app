@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.4.9**
+
+- IMPROVED: improve issue that page would jump when Emby library is updating
+- IMPROVED: improve Emby detail page poster
+- FIXED: fix issue that Aliyun Drive can not be opened after refresh token expired
+- FIXED: fix issue that 123 Cloud Drive does not pop up re-authorization page after authorization expired
+- FIXED: fix issue that SMB can not rename files
+
 ## **Version 1.4.8**
 
 date: 2026-03-16 (build 271)
