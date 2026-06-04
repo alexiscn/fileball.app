@@ -10,8 +10,10 @@ locale: en
 
 ## **Version 1.4.9**
 
+- ADDED: Emby episode details page now includes a swipe-to-load feature for more episodes
 - IMPROVED: improve issue that page would jump when Emby library is updating
 - IMPROVED: improve Emby detail page poster
+- IMPROVED: Improve picture-in-picture performance
 - FIXED: fix issue that loading subtitle might cause a slight stutter
 - FIXED: fix issue that Aliyun Drive can not be opened after refresh token expired
 - FIXED: fix issue that 123 Cloud Drive does not pop up re-authorization page after authorization expired
