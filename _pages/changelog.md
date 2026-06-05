@@ -11,6 +11,7 @@ locale: en
 
 ## **Version 1.4.10**
 
+- FIXED: fix issue that the episode list might not load on the Emby season details page
 - FIXED: fix issue that not able to play videos from 123 Cloud Drive
 - FIXED: fix issue that first file in both local and cloud file lists being unclickable
 
