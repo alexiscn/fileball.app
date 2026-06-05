@@ -8,7 +8,14 @@ locale: en
 
 # Changelog
 
+
+## **Version 1.4.10**
+
+
+
 ## **Version 1.4.9**
+
+date: 2026-06-05 (build 272)
 
 - ADDED: Emby episode details page now includes a swipe-to-load feature for more episodes
 - IMPROVED: improve issue that page would jump when Emby library is updating
