@@ -8,6 +8,10 @@ locale: en
 
 # Changelog
 
+## **Version 1.4.11**
+
+- FIXED: fix issue that the now player center playback progress bar was displayed incorrectly after pausing the audio player
+- FIXED: fix issue that the audio player might take a long time to play the next track after playing a portion of the audio
 
 ## **Version 1.4.10**
 
