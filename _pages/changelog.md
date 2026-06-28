@@ -10,9 +10,12 @@ locale: en
 
 ## **Version 1.4.11**
 
+- IMPROVED: Automatically selects the previous video version when playing the next episode of an Emby series
 - FIXED: fix issue that selecting the video version on the Emby details page might reset
 - FIXED: fix issue that the now player center playback progress bar was displayed incorrectly after pausing the audio player
 - FIXED: fix issue that the audio player might take a long time to play the next track after playing a portion of the audio
+
+Note: We will end support for iOS 15 in future versions; this is the last version to support iOS 15
 
 ## **Version 1.4.10**
 
