@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.4.11**
 
+date: 2026-07-01 (build 275)
+
 - IMPROVED: Automatically selects the previous video version when playing the next episode of an Emby series
 - FIXED: fix issue that selecting the video version on the Emby details page might reset
 - FIXED: fix issue that the now player center playback progress bar was displayed incorrectly after pausing the audio player
