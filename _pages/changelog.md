@@ -8,6 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.4.12**
+
+- FIXED: fix issue that can not connect 123 Cloud Drive
+- FIXED: fix issue that subtitle delay always starting from 0 for adjustment
+
+Note: We will end support for iOS 15 in future versions; this is the last version to support iOS 15
+
 ## **Version 1.4.11**
 
 date: 2026-07-01 (build 275)
