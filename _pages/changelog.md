@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.4.12**
 
+date: 2026-07-02 (build 276)
+
 - FIXED: fix issue that can not connect 123 Cloud Drive
 - FIXED: fix issue that subtitle delay always starting from 0 for adjustment
 
