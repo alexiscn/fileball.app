@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+
+## **Version 1.4.13**
+
+- FIXED: fixed an issue where the default player displayed garbled text when playing Emby-selected external ASS subtitles
+
+Note: We will end support for iOS 15 in future versions; this is the last version to support iOS 15
+
+
 ## **Version 1.4.12**
 
 date: 2026-07-02 (build 276)
