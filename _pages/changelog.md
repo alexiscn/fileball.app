@@ -11,6 +11,14 @@ locale: en
 
 ## **Version 1.4.13**
 
+- Fix: Resolved an issue where some subtitles appeared as squares
+- Fix: Resolved an issue preventing connection to Jellyfin
+
+Note: We will end support for iOS 15 in future versions; this is the last version to support iOS 15
+
+
+## **Version 1.4.13**
+
 date: 2026-07-20 (build 277)
 
 - FIXED: fixed an issue where the default player displayed garbled text when playing Emby-selected external ASS subtitles
