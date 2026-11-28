@@ -8,6 +8,11 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.34**
+
+- Fix: Resolved an issue where some subtitles appeared as squares
+- Fix: Resolved an issue preventing connection to Jellyfin
+
 ## **Version 1.0.33**
 
 date: 2025-09-28 (build 83)
